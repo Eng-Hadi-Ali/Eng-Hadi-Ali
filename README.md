@@ -25,7 +25,7 @@
 
 ## 👋 A Little About Me
 
-I'm **Hadi Al-Drobi**, an **Odoo ERP consultant and accounting professional** focused on bridging business processes, financial accuracy, and practical technology.
+I'm **Eng. Hadi Al-Drobi**, an **Odoo ERP consultant and accounting professional** focused on bridging business processes, financial accuracy, and practical technology.
 
 I work at the intersection of **ERP implementation**, **accounting and auditing**, and **software development**—helping organizations translate operational requirements into clear, dependable workflows.
 
