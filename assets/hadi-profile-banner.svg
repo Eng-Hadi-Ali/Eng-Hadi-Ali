@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+  <title id="title">Eng. Hadi Al-Drobi - Odoo ERP Consultant</title>
+  <desc id="desc">Professional profile banner highlighting Odoo ERP, accounting, auditing, and Python development.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#14101f"/><stop offset=".6" stop-color="#21182f"/><stop offset="1" stop-color="#362344"/></linearGradient>
+    <linearGradient id="purple" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#bb90ca"/><stop offset="1" stop-color="#8e60aa"/></linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3c2b51"/><stop offset="1" stop-color="#241c35"/></linearGradient>
+    <pattern id="grid" width="31" height="31" patternUnits="userSpaceOnUse"><path d="M31 0H0V31" fill="none" stroke="#c4add5" stroke-opacity=".065" stroke-width="1"/></pattern>
+    <filter id="soft" x="-20%" y="-30%" width="150%" height="170%"><feGaussianBlur stdDeviation="32"/></filter>
+  </defs>
+  <rect width="1200" height="380" rx="22" fill="url(#background)"/>
+  <rect width="1200" height="380" rx="22" fill="url(#grid)"/>
+  <circle cx="1030" cy="20" r="160" fill="#9d6bb9" opacity=".18" filter="url(#soft)"/>
+  <circle cx="240" cy="400" r="140" fill="#5c326f" opacity=".3" filter="url(#soft)"/>
+  <path d="M0 346C240 304 390 395 610 350S1000 296 1200 337" stroke="#9d79bb" stroke-opacity=".22" fill="none" stroke-width="2"/>
+  <rect x="48" y="38" width="56" height="56" rx="16" fill="url(#purple)"/>
+  <text x="76" y="75" text-anchor="middle" fill="#ffffff" font-size="21" font-family="Arial, Helvetica, sans-serif" font-weight="700">HD</text>
+  <text x="120" y="60" fill="#d9c3e5" font-size="13" letter-spacing="3" font-family="Arial, Helvetica, sans-serif" font-weight="700">ERP  /  FINANCE  /  SOFTWARE</text>
+  <rect x="48" y="118" width="47" height="4" rx="2" fill="url(#purple)"/>
+  <text x="48" y="178" font-size="52" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-weight="700" letter-spacing="1">HADI AL-DROBI</text>
+  <text x="49" y="218" font-size="23" fill="#ceb0df" font-family="Arial, Helvetica, sans-serif" font-weight="600">Odoo ERP Consultant</text>
+  <text x="49" y="252" font-size="19" fill="#e4d9ea" font-family="Arial, Helvetica, sans-serif">Accountant  •  Auditor  •  Python Developer</text>
+  <rect x="49" y="284" width="518" height="1" fill="#9579a8" opacity=".43"/>
+  <circle cx="56" cy="313" r="4" fill="#85d3b5"/>
+  <text x="70" y="319" font-size="16" fill="#cabcd2" font-family="Arial, Helvetica, sans-serif">Based in Yemen</text>
+  <circle cx="236" cy="313" r="3" fill="#947dad"/>
+  <text x="250" y="319" font-size="16" fill="#cabcd2" font-family="Arial, Helvetica, sans-serif">Building better business systems</text>
+  <rect x="734" y="38" width="420" height="295" rx="23" fill="url(#panel)" stroke="#c4a1d8" stroke-opacity=".32"/>
+  <rect x="756" y="59" width="376" height="40" rx="10" fill="#ffffff" fill-opacity=".055"/>
+  <circle cx="777" cy="79" r="6" fill="#86d5ba"/>
+  <text x="794" y="84" font-size="15" font-family="Arial, Helvetica, sans-serif" fill="#f2eaf6" font-weight="700">BUSINESS SYSTEMS</text>
+  <rect x="1023" y="68" width="87" height="22" rx="11" fill="#a077bb" fill-opacity=".24"/>
+  <text x="1066" y="83" text-anchor="middle" font-size="11" font-family="Arial, Helvetica, sans-serif" fill="#e7c8f3">FOCUS AREAS</text>
+  <rect x="756" y="115" width="376" height="54" rx="12" fill="#ffffff" fill-opacity=".07" stroke="#ffffff" stroke-opacity=".07"/>
+  <rect x="770" y="128" width="29" height="29" rx="8" fill="#ac78bd" fill-opacity=".45"/>
+  <text x="784" y="148" text-anchor="middle" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="700" fill="#ffffff">01</text>
+  <text x="812" y="138" font-size="13" font-family="Arial, Helvetica, sans-serif" fill="#f2eaf6" font-weight="700">ODOO ERP</text>
+  <text x="812" y="155" font-size="11" font-family="Arial, Helvetica, sans-serif" fill="#c5b8d0">Implementation &amp; automation</text>
+  <rect x="756" y="181" width="376" height="54" rx="12" fill="#ffffff" fill-opacity=".07" stroke="#ffffff" stroke-opacity=".07"/>
+  <rect x="770" y="194" width="29" height="29" rx="8" fill="#ac78bd" fill-opacity=".45"/>
+  <text x="784" y="214" text-anchor="middle" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="700" fill="#ffffff">02</text>
+  <text x="812" y="204" font-size="13" font-family="Arial, Helvetica, sans-serif" fill="#f2eaf6" font-weight="700">ACCOUNTING &amp; AUDIT</text>
+  <text x="812" y="221" font-size="11" font-family="Arial, Helvetica, sans-serif" fill="#c5b8d0">Controls &amp; financial reporting</text>
+  <rect x="756" y="247" width="376" height="54" rx="12" fill="#ffffff" fill-opacity=".07" stroke="#ffffff" stroke-opacity=".07"/>
+  <rect x="770" y="260" width="29" height="29" rx="8" fill="#ac78bd" fill-opacity=".45"/>
+  <text x="784" y="280" text-anchor="middle" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="700" fill="#ffffff">03</text>
+  <text x="812" y="270" font-size="13" font-family="Arial, Helvetica, sans-serif" fill="#f2eaf6" font-weight="700">PYTHON DEVELOPMENT</text>
+  <text x="812" y="287" font-size="11" font-family="Arial, Helvetica, sans-serif" fill="#c5b8d0">Reliable, maintainable solutions</text>
+  <rect x="0" y="371" width="1200" height="9" rx="4" fill="url(#purple)" opacity=".82"/>
+</svg>
