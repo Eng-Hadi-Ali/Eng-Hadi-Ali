@@ -12,6 +12,13 @@
 <img src="https://img.shields.io/badge/ACCOUNTING-%26%20AUDIT-41435D?style=for-the-badge" alt="Accounting and Audit" />
 <img src="https://img.shields.io/badge/PYTHON-DEVELOPMENT-306998?style=for-the-badge&logo=python&logoColor=white" alt="Python Development" />
 
+<br/><br/>
+
+<!-- Live GitHub profile metrics: third-party views are approximate page loads, not unique visitors -->
+<img src="https://komarev.com/ghpvc/?username=Eng-Hadi-Ali&label=PROFILE+VIEWS&color=875A7B&style=for-the-badge" alt="Approximate GitHub profile views counter" />
+<img src="https://img.shields.io/github/followers/Eng-Hadi-Ali?label=FOLLOWERS&style=for-the-badge&color=41435D&logo=github" alt="GitHub followers" />
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=PUBLIC%20REPOS&color=875A7B&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FEng-Hadi-Ali" alt="Number of public GitHub repositories" />
+
 </div>
 
 ---
