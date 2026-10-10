@@ -1,16 +1,34 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Eng-Hadi-Ali/Eng-Hadi-Ali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Hadi Al-Drobi 👋
 
-Here are some ideas to get you started:
+### Odoo ERP Consultant | Accountant & Auditor | Python Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Turning business processes into practical, reliable ERP solutions.**
+
+📍 Yemen &nbsp;•&nbsp; 🌐 Arabic & English
+
+</div>
+
+---
+
+### 👨‍💼 About Me
+
+I'm an **Odoo ERP consultant** with a background in **accounting and auditing**. I focus on connecting business requirements with well-structured ERP workflows, accurate financial processes, and user-friendly systems.
+
+- 🧩 **ERP & Odoo:** Implementation, customization, business analysis, and workflow automation.
+- 📊 **Accounting & Audit:** Financial reporting, internal controls, and accounting system design.
+- 💻 **Development:** Building and improving Odoo solutions with Python and related technologies.
+- 📚 **Continuous learning:** Expanding my expertise in Python and software engineering.
+
+### 🛠️ Areas of Focus
+
+`Odoo ERP` · `Accounting` · `Auditing` · `Python` · `PostgreSQL` · `XML` · `Business Process Automation`
+
+---
+
+<div align="center">
+
+*Building software that makes business operations clearer, smarter, and more efficient.*
+
+</div>
