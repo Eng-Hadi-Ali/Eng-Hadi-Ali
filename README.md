@@ -54,10 +54,12 @@ I work at the intersection of **ERP implementation**, **accounting and auditing*
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eng-Hadi-Ali&theme=github_dark" alt="GitHub activity statistics for Eng-Hadi-Ali" width="48%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Eng-Hadi-Ali&theme=github_dark" alt="Most-used languages across public GitHub repositories" width="48%" />
+<!-- Live public GitHub activity; powered by GitHub Profile Summary Cards. -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eng-Hadi-Ali&theme=github_dark" alt="GitHub public activity statistics" width="74%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Eng-Hadi-Ali&bg_color=0D1117&color=CBA5D3&title_color=CBA5D3&line=875A7B&point=FFFFFF&area=true&hide_border=true&days=30" alt="Contribution activity across the last 30 days" width="98%" />
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eng-Hadi-Ali&theme=github_dark" alt="Public GitHub contribution history and activity timeline" width="98%" />
 
 </div>
 
