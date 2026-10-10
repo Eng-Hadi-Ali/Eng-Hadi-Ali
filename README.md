@@ -72,12 +72,21 @@ I work at the intersection of **ERP implementation**, **accounting and auditing*
 
 ---
 
+## 🤝 Let's Connect
+
+Interested in **Odoo ERP implementation, accounting systems, financial reporting, or business process automation**? Feel free to get in touch.
+
 <div align="center">
+
+<a href="mailto:al.drobi2023@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-875A7B?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Hadi an email" /></a>
+<a href="https://github.com/Eng-Hadi-Ali?tab=repositories"><img src="https://img.shields.io/badge/View%20Repositories-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub repositories" /></a>
+
+<sub>al.drobi2023@gmail.com</sub>
+
+<br/>
 
 **ERP · Finance · Technology**
 
 *Transforming business requirements into smarter systems.*
-
-<a href="https://github.com/Eng-Hadi-Ali"><img src="https://img.shields.io/badge/Explore%20My%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub profile" /></a>
 
 </div>
