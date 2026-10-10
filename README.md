@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/ACCOUNTING-%26%20AUDIT-41435D?style=for-the-badge" alt="Accounting and Audit" />
 <img src="https://img.shields.io/badge/PYTHON-DEVELOPMENT-306998?style=for-the-badge&logo=python&logoColor=white" alt="Python Development" />
 
-<br/><br/>
+<br/>
 
 <!-- Live GitHub profile metrics: third-party views are approximate page loads, not unique visitors -->
 <img src="https://komarev.com/ghpvc/?username=Eng-Hadi-Ali&label=PROFILE+VIEWS&color=875A7B&style=for-the-badge" alt="Approximate GitHub profile views counter" />
@@ -47,6 +47,17 @@ I work at the intersection of **ERP implementation**, **accounting and auditing*
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+
+</div>
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eng-Hadi-Ali&theme=github_dark" alt="GitHub activity statistics for Eng-Hadi-Ali" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Eng-Hadi-Ali&theme=github_dark" alt="Most-used languages across public GitHub repositories" width="48%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Eng-Hadi-Ali&bg_color=0D1117&color=CBA5D3&title_color=CBA5D3&line=875A7B&point=FFFFFF&area=true&hide_border=true&days=30" alt="Contribution activity across the last 30 days" width="98%" />
 
 </div>
 
