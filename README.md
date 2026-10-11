@@ -113,3 +113,134 @@ Interested in **Odoo ERP implementation, accounting systems, financial reporting
 *Transforming business requirements into smarter systems.*
 
 </div>
+<div align="center">
+
+<img src="./assets/hadi-profile-banner.svg" alt="Eng. Hadi Al-Drobi | Odoo ERP Consultant" width="100%" />
+
+<br/>
+
+# Eng. Hadi Al-Drobi
+
+### Odoo ERP Consultant | Accountant | Auditor | Automation
+
+<p>
+  <a href="https://github.com/Eng-Hadi-Ali">
+    <img src="https://img.shields.io/badge/GitHub-Eng--Hadi--Ali-102F45?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+</div>
+
+---
+
+## 🌍 Professional Overview | نبذة مهنية
+
+**English:**  
+Odoo ERP Consultant, Accountant, and Auditor focused on business analysis, workflow automation, accounting systems, operational efficiency, and practical digital transformation.
+
+**العربية:**  
+مستشار تطبيقات Odoo، محاسب، ومدقق حسابات. أركز على تحليل الأعمال، أتمتة الإجراءات، بناء الأنظمة التشغيلية والمالية، وتطوير حلول عملية تربط بين التقنية والإدارة.
+
+---
+
+## 🧭 Services | الخدمات
+
+- Odoo ERP implementation and configuration  
+- Business analysis and module customization  
+- Financial reporting and accounting controls  
+- Workflow automation and process improvement  
+- System integration and operational digitization  
+- ERP consulting for service, trade, and industrial businesses  
+
+**بالعربية:**
+- تنفيذ وتهيئة أنظمة Odoo  
+- تحليل الأعمال وتخصيص الموديولات  
+- إعداد التقارير المالية والضبط المحاسبي  
+- أتمتة الإجراءات وسير العمل  
+- التكامل بين الأنظمة والتحول الرقمي  
+- استشارات ERP للمنشآت التجارية والخدمية والصناعية  
+
+---
+
+## 🚀 Selected Work | أعمال مختارة
+
+### YAFA Platform
+A multi-service platform connecting a Flutter customer app with an Odoo-based operational ecosystem for bookings, notifications, user interaction, and service management.
+
+### Odoo Implementations & Automation
+Building practical Odoo solutions, automation flows, approval cycles, reporting systems, and operational controls.
+
+### Accounting & Audit Workflows
+Designing structured accounting cycles, financial controls, reporting flows, and audit-oriented process improvements.
+
+---
+
+## 🛠️ Technical Stack | المهارات التقنية
+
+### ERP / Business
+- Odoo
+- Odoo Studio
+- Business Analysis
+- Workflow Design
+- ERP Consulting
+
+### Accounting / Audit
+- Financial Reporting
+- Internal Controls
+- Audit Workflows
+- Process Documentation
+
+### Development
+- Python
+- JavaScript
+- HTML
+- CSS
+- Flutter
+
+### Tools
+- GitHub
+- Excel
+- Smart
+- Onyx Pro
+
+---
+
+## 📌 Current Focus | التركيز الحالي
+
+- YAFA Customer App  
+- Odoo-based service platforms  
+- Workflow automation  
+- Practical ERP implementation  
+- Financial and operational systems  
+
+---
+
+## 📫 Contact | التواصل
+
+- **GitHub:** [Eng-Hadi-Ali](https://github.com/Eng-Hadi-Ali)
+- **Role:** Odoo ERP Consultant | Accountant | Auditor
+- **Focus:** ERP • Accounting • Automation • Service Platforms
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Eng-Hadi-Ali&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Eng-Hadi-Ali&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-Hadi-Ali&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Building practical systems with clarity, structure, and purpose.
+
+### أبني أنظمة عملية بوضوح وتنظيم وهدف.
+
+</div>
