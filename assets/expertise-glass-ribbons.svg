@@ -1,81 +1,41 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="271" viewBox="0 0 1400 271" role="img" aria-labelledby="ribbon-title ribbon-desc">
-<title id="ribbon-title">Eng. Hadi Al-Drobi — Core Specializations</title>
-<desc id="ribbon-desc">Four premium navy glass-style cards matching the profile banner, with opaque Odoo, Finance, Python and Flutter logos and titles in their own brand colors. Titles animate typing, remain for approximately one minute, then restart.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="190" viewBox="0 0 1400 190" role="img" aria-labelledby="ribbon-title ribbon-desc">
+<title id="ribbon-title">Eng. Hadi Al-Drobi — Professional Expertise</title>
+<desc id="ribbon-desc">Original compact layout: three navy glass ribbons on top and Flutter centered beneath. Four original brand-colored identities with sequential typing animations.</desc>
 <defs>
-  <linearGradient id="night" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071522"/><stop offset=".55" stop-color="#102D44"/><stop offset="1" stop-color="#091B2B"/></linearGradient>
-  <linearGradient id="panel" x1="0" y1="0" x2=".85" y2="1"><stop stop-color="#16364B"/><stop offset=".48" stop-color="#102D44"/><stop offset="1" stop-color="#081C2E"/></linearGradient>
-  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#A5E4FF" stop-opacity=".58"/><stop offset=".55" stop-color="#7AB1D0" stop-opacity=".19"/><stop offset="1" stop-color="#7AB1D0" stop-opacity=".05"/></linearGradient>
-  <pattern id="grid" width="35" height="35" patternUnits="userSpaceOnUse"><path d="M35 0H0V35" fill="none" stroke="#86BBD5" stroke-opacity=".09" stroke-width="1"/></pattern>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071522"/><stop offset=".55" stop-color="#102D44"/><stop offset="1" stop-color="#091B2B"/></linearGradient>
+  <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#19394E"/><stop offset=".52" stop-color="#102D44"/><stop offset="1" stop-color="#0B2031"/></linearGradient>
+  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#B0E5FA" stop-opacity=".62"/><stop offset="1" stop-color="#B0E5FA" stop-opacity=".05"/></linearGradient>
+  <pattern id="grid" width="35" height="35" patternUnits="userSpaceOnUse"><path d="M35 0H0V35" fill="none" stroke="#A4D3E9" stroke-opacity=".07"/></pattern>
+  <clipPath id="type-odoo"><rect x="91" y="33" height="33" width="0"><animate attributeName="width" values="0;336;336;0" keyTimes="0;.09;.965;1" dur="66s" repeatCount="indefinite"/></rect></clipPath>
+  <clipPath id="type-finance"><rect x="528" y="33" height="33" width="0"><animate attributeName="width" values="0;0;404;404;0" keyTimes="0;.01;.10;.965;1" dur="66s" repeatCount="indefinite"/></rect></clipPath>
+  <clipPath id="type-python"><rect x="1040" y="33" height="33" width="0"><animate attributeName="width" values="0;0;306;306;0" keyTimes="0;.02;.11;.965;1" dur="66s" repeatCount="indefinite"/></rect></clipPath>
+  <clipPath id="type-flutter"><rect x="587" y="116" height="33" width="0"><animate attributeName="width" values="0;0;276;276;0" keyTimes="0;.03;.12;.965;1" dur="66s" repeatCount="indefinite"/></rect></clipPath>
 </defs>
-<rect width="1400" height="271" rx="20" fill="url(#night)"/>
-<rect width="1400" height="271" rx="20" fill="url(#grid)"/>
-
-  <g>
-    <rect x="30" y="24" width="655" height="100" rx="18" fill="url(#panel)" stroke="#6DA7C4" stroke-width="1.5"/>
-    <path d="M49 26H666" fill="none" stroke="url(#edge)" stroke-width="2" stroke-linecap="round"/>
-    <rect x="48" y="39" width="110" height="71" rx="13" fill="#0B2235" stroke="#6C98B0" stroke-width="1.2"/>
-    <g transform="translate(67 32)"><g stroke="#B987AD" stroke-width="8.5" fill="none"><circle cx="25" cy="34" r="10"/><circle cx="49" cy="34" r="10"/><circle cx="73" cy="34" r="10"/></g><circle cx="73" cy="34" r="4.2" fill="#B987AD"/></g>
-    <clipPath id="card0-name"><rect x="175" y="37" height="38" width="0">
-      <animate attributeName="width" dur="70s" begin="0s" repeatCount="indefinite" values="0;430;430;0" keyTimes="0;0.06;0.97;1"/>
-    </rect></clipPath>
-    <clipPath id="card0-desc"><rect x="175" y="74" height="35" width="0">
-      <animate attributeName="width" dur="70s" begin="0s" repeatCount="indefinite" values="0;0;430;430;0" keyTimes="0;0.06;0.12;0.97;1"/>
-    </rect></clipPath>
-    <text x="175" y="68" fill="#B987AD" font-family="Arial,Helvetica,sans-serif" font-size="27" font-weight="800" letter-spacing="2.4" clip-path="url(#card0-name)">ODOO</text>
-    <text x="175" y="100" fill="#B987AD" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" letter-spacing="1.4" clip-path="url(#card0-desc)">ERP CONSULTING</text>
-    <path d="M647 56v33" stroke="#6D9DB9" stroke-width="2"/>
-    <circle cx="648" cy="102" r="3" fill="#8DD7F4"><animate attributeName="opacity" values="1;.3;1" dur="3s" repeatCount="indefinite"/></circle>
-  </g>
-
-  <g>
-    <rect x="715" y="24" width="655" height="100" rx="18" fill="url(#panel)" stroke="#6DA7C4" stroke-width="1.5"/>
-    <path d="M734 26H1351" fill="none" stroke="url(#edge)" stroke-width="2" stroke-linecap="round"/>
-    <rect x="733" y="39" width="110" height="71" rx="13" fill="#0B2235" stroke="#6C98B0" stroke-width="1.2"/>
-    <g transform="translate(752 32)"><g fill="none" stroke="#66D0F2" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"><rect x="23" y="12" width="57" height="60" rx="7"/><path d="M35 26h33M35 38h33M35 51h11M56 51h12M35 63h11M56 63h12"/></g></g>
-    <clipPath id="card1-name"><rect x="860" y="37" height="38" width="0">
-      <animate attributeName="width" dur="70s" begin=".8s" repeatCount="indefinite" values="0;430;430;0" keyTimes="0;0.06;0.97;1"/>
-    </rect></clipPath>
-    <clipPath id="card1-desc"><rect x="860" y="74" height="35" width="0">
-      <animate attributeName="width" dur="70s" begin=".8s" repeatCount="indefinite" values="0;0;430;430;0" keyTimes="0;0.06;0.12;0.97;1"/>
-    </rect></clipPath>
-    <text x="860" y="68" fill="#66D0F2" font-family="Arial,Helvetica,sans-serif" font-size="27" font-weight="800" letter-spacing="2.4" clip-path="url(#card1-name)">FINANCE</text>
-    <text x="860" y="100" fill="#66D0F2" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" letter-spacing="1.4" clip-path="url(#card1-desc)">ACCOUNTING &amp; AUDIT</text>
-    <path d="M1332 56v33" stroke="#6D9DB9" stroke-width="2"/>
-    <circle cx="1333" cy="102" r="3" fill="#8DD7F4"><animate attributeName="opacity" values="1;.3;1" dur="3.4s" repeatCount="indefinite"/></circle>
-  </g>
-
-  <g>
-    <rect x="30" y="143" width="655" height="100" rx="18" fill="url(#panel)" stroke="#6DA7C4" stroke-width="1.5"/>
-    <path d="M49 145H666" fill="none" stroke="url(#edge)" stroke-width="2" stroke-linecap="round"/>
-    <rect x="48" y="158" width="110" height="71" rx="13" fill="#0B2235" stroke="#6C98B0" stroke-width="1.2"/>
-    <g transform="translate(67 151)"><path d="M47 11h18c13 0 15 8 15 15v15H48c-10 0-16 4-16 17V66H20c-8 0-12-6-12-14V34c0-11 8-14 16-14h23z" fill="#3776AB"/><path d="M47 78H29c-13 0-15-8-15-15V48h32c10 0 16-4 16-17v-8h12c8 0 12 6 12 14v18c0 11-8 14-16 14H47z" fill="#FFD43B"/><circle cx="59" cy="22" r="3" fill="#E5F4FF"/><circle cx="35" cy="66" r="3" fill="#10293E"/></g>
-    <clipPath id="card2-name"><rect x="175" y="156" height="38" width="0">
-      <animate attributeName="width" dur="70s" begin="1.6s" repeatCount="indefinite" values="0;430;430;0" keyTimes="0;0.06;0.97;1"/>
-    </rect></clipPath>
-    <clipPath id="card2-desc"><rect x="175" y="193" height="35" width="0">
-      <animate attributeName="width" dur="70s" begin="1.6s" repeatCount="indefinite" values="0;0;430;430;0" keyTimes="0;0.06;0.12;0.97;1"/>
-    </rect></clipPath>
-    <text x="175" y="187" fill="#76BCEB" font-family="Arial,Helvetica,sans-serif" font-size="27" font-weight="800" letter-spacing="2.4" clip-path="url(#card2-name)">PYTHON</text>
-    <text x="175" y="219" fill="#76BCEB" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" letter-spacing="1.4" clip-path="url(#card2-desc)">DEVELOPMENT</text>
-    <path d="M647 175v33" stroke="#6D9DB9" stroke-width="2"/>
-    <circle cx="648" cy="221" r="3" fill="#8DD7F4"><animate attributeName="opacity" values="1;.3;1" dur="3.8s" repeatCount="indefinite"/></circle>
-  </g>
-
-  <g>
-    <rect x="715" y="143" width="655" height="100" rx="18" fill="url(#panel)" stroke="#6DA7C4" stroke-width="1.5"/>
-    <path d="M734 145H1351" fill="none" stroke="url(#edge)" stroke-width="2" stroke-linecap="round"/>
-    <rect x="733" y="158" width="110" height="71" rx="13" fill="#0B2235" stroke="#6C98B0" stroke-width="1.2"/>
-    <g transform="translate(752 151)"><path d="M19 44L55 8h27L46 44z" fill="#54C5F8"/><path d="M19 51L45 25h27L46 51z" fill="#29B6F6"/><path d="M46 51l15-15 23 23-14 15z" fill="#01579B"/><path d="M46 51l15 15-14 14-15-15z" fill="#54C5F8"/></g>
-    <clipPath id="card3-name"><rect x="860" y="156" height="38" width="0">
-      <animate attributeName="width" dur="70s" begin="2.4s" repeatCount="indefinite" values="0;430;430;0" keyTimes="0;0.06;0.97;1"/>
-    </rect></clipPath>
-    <clipPath id="card3-desc"><rect x="860" y="193" height="35" width="0">
-      <animate attributeName="width" dur="70s" begin="2.4s" repeatCount="indefinite" values="0;0;430;430;0" keyTimes="0;0.06;0.12;0.97;1"/>
-    </rect></clipPath>
-    <text x="860" y="187" fill="#54C5F8" font-family="Arial,Helvetica,sans-serif" font-size="27" font-weight="800" letter-spacing="2.4" clip-path="url(#card3-name)">FLUTTER</text>
-    <text x="860" y="219" fill="#54C5F8" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" letter-spacing="1.4" clip-path="url(#card3-desc)">APPLICATIONS</text>
-    <path d="M1332 175v33" stroke="#6D9DB9" stroke-width="2"/>
-    <circle cx="1333" cy="221" r="3" fill="#8DD7F4"><animate attributeName="opacity" values="1;.3;1" dur="4.2s" repeatCount="indefinite"/></circle>
-  </g>
-<rect x="5" y="5" width="1390" height="261" rx="17" fill="none" stroke="#5F9AB8" stroke-opacity=".5" stroke-width="1.5"/>
+<rect width="1400" height="190" rx="16" fill="url(#bg)"/><rect width="1400" height="190" rx="16" fill="url(#grid)"/>
+<g fill="url(#glass)" stroke="#608DA6" stroke-width="1.2">
+  <rect x="24" y="21" width="420" height="59" rx="12"/>
+  <rect x="469" y="21" width="478" height="59" rx="12"/>
+  <rect x="972" y="21" width="404" height="59" rx="12"/>
+  <rect x="523" y="108" width="354" height="59" rx="12"/>
+</g>
+<g fill="none" stroke="url(#edge)" stroke-width="1.5"><path d="M39 23H430"/><path d="M484 23H932"/><path d="M987 23H1361"/><path d="M538 110H862"/></g>
+<g stroke="#83AEC5" stroke-opacity=".4" stroke-width="1"><path d="M199 33V69"/><path d="M643 33V69"/><path d="M1141 33V69"/><path d="M705 120V157"/></g>
+<!-- Each logo is rendered in its brand color at full opacity. -->
+<!-- Odoo identity: a compact set of interlinked circles, not a third-party image. -->
+<g fill="none" stroke="#AD729E" stroke-width="5"><circle cx="47" cy="50" r="9"/><circle cx="66" cy="50" r="9"/></g>
+<circle cx="66" cy="50" r="3.5" fill="#AD729E"/>
+<!-- Finance identity -->
+<g fill="none" stroke="#62C9EC" stroke-width="2.7" stroke-linecap="round" stroke-linejoin="round"><rect x="489" y="34" width="24" height="31" rx="4"/><path d="M494 41H508M494 47H508M495 54h3m6 0h3m-12 6h3m6 0h3"/></g>
+<!-- Python identity, characteristic blue/yellow icon -->
+<g transform="translate(994 33) scale(.6)"><path d="M34 0H18C9 0 8 5 8 14v7h26v5H12C3 26 0 33 0 41s5 12 15 12h8v-11c0-10 7-15 16-15h13V14C52 5 47 0 34 0Z" fill="#3776AB"/><path d="M18 68h16c9 0 10-5 10-14v-7H18v-5h22c9 0 12-7 12-15s-5-12-15-12h-8v11c0 10-7 15-16 15H0v13c0 9 5 14 18 14Z" fill="#FFD43B" transform="translate(8 0)"/><circle cx="18" cy="10" r="3" fill="#F6FBFF"/><circle cx="42" cy="57" r="3" fill="#0B2538"/></g>
+<!-- Flutter identity -->
+<g transform="translate(544 119)"><path d="M0 20 20 0H36L16 20Z" fill="#54C5F8"/><path d="M0 26 20 6H36L16 26Z" fill="#29B6F6"/><path d="M16 26 27 15 42 30 31 41Z" fill="#01579B"/></g>
+<!-- Brand names and descriptors are opaque and animate writing inside clips. -->
+<g font-family="Arial,Helvetica,sans-serif" font-weight="700">
+ <g clip-path="url(#type-odoo)"><text x="91" y="59" font-size="21" letter-spacing="1.2" fill="#B987AD">ODOO</text><text x="213" y="59" font-size="18" letter-spacing=".8" fill="#B987AD">ERP CONSULTING</text></g>
+ <g clip-path="url(#type-finance)"><text x="528" y="59" font-size="20" letter-spacing="1" fill="#66D0F2">FINANCE</text><text x="655" y="59" font-size="19" letter-spacing=".6" fill="#66D0F2">ACCOUNTING &amp; AUDIT</text></g>
+ <g clip-path="url(#type-python)"><text x="1040" y="59" font-size="20" letter-spacing="1" fill="#77BDEC">PYTHON</text><text x="1153" y="59" font-size="19" letter-spacing=".6" fill="#77BDEC">DEVELOPMENT</text></g>
+ <g clip-path="url(#type-flutter)"><text x="587" y="145" font-size="20" letter-spacing="1" fill="#54C5F8">FLUTTER</text><text x="719" y="145" font-size="18" letter-spacing=".5" fill="#54C5F8">APPLICATIONS</text></g>
+</g>
+<rect x="4" y="4" width="1392" height="182" rx="12" fill="none" stroke="#5D91AD" stroke-opacity=".4" stroke-width="1.5"/>
 </svg>
