@@ -37,18 +37,6 @@ Business workflows across sales, purchasing, accounting, projects, financial rep
 
 ---
 
-## Engineering Metrics
-
-<div align="center">
-
-<img src="./assets/github-glass-stats.svg" alt="Public GitHub glass metrics dashboard" width="100%" />
-
-<sub>Public activity statistics are refreshed automatically when the scheduled workflow runs successfully. Private activity is excluded.</sub>
-
-</div>
-
----
-
 ## Current Focus
 
 - Building maintainable Odoo ERP applications and integrations
@@ -61,6 +49,20 @@ Business workflows across sales, purchasing, accounting, projects, financial rep
 I welcome professional collaboration on **Odoo ERP, accounting technology, business automation and digital transformation**.
 
 [View repositories](https://github.com/Eng-Hadi-Ali?tab=repositories)
+
+---
+
+## Engineering Metrics
+
+<div align="center">
+
+<img src="./assets/github-glass-stats.svg" alt="Four compact digital metric strips: public repositories, stars, followers and most recent public push" width="100%" />
+
+<sub>Public GitHub statistics. Updated automatically when scheduled GitHub Actions runs successfully.</sub>
+
+</div>
+
+---
 
 <div align="center">
 
