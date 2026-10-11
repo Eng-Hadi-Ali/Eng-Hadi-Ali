@@ -23,6 +23,29 @@
 
 ---
 
+## 🌍 نبذة مهنية | Professional Overview
+
+**العربية:** مستشار تطبيقات Odoo ومحاسب ومدقق حسابات، أهتم بتحويل المتطلبات المالية والتشغيلية إلى حلول عملية تشمل تهيئة أنظمة ERP، تطوير الإجراءات، التقارير المالية، والتكامل بين الأنظمة.
+
+**English:** Odoo ERP consultant, accountant, and auditor focused on financial workflows, business analysis, reliable reporting, and practical automation.
+
+## 🧭 الخدمات | Professional Services
+
+| العربية | English |
+|---|---|
+| تنفيذ وتهيئة أنظمة Odoo | ERP implementation |
+| تحليل الأعمال وتخصيص الموديولات | Business analysis and module customization |
+| إعداد التقارير المالية والضوابط المحاسبية | Financial reporting and accounting controls |
+| أتمتة الإجراءات والتكاملات | Workflow automation and integrations |
+
+## 🚀 أعمال مختارة | Selected Work
+
+**YAFA — Multi-Service Platform:** مشروع خاص قيد التطوير يربط تطبيق Flutter بمنظومة تشغيل قائمة على Odoo للحجوزات وتواصل العملاء ومقدمي الخدمات. التفاصيل البرمجية الخاصة غير منشورة.
+
+**Odoo & Accounting Workflows:** تصميم وتحسين إجراءات الأعمال والمحاسبة والتقارير لتلبية متطلبات التشغيل.
+
+---
+
 ## 👋 A Little About Me
 
 I'm **Eng. Hadi Al-Drobi**, an **Odoo ERP consultant and accounting professional** focused on bridging business processes, financial accuracy, and practical technology.
