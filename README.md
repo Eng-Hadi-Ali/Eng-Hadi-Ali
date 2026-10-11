@@ -1,92 +1,76 @@
 <div align="center">
 
-<img src="./assets/hadi-profile-banner.svg" alt="Eng. Hadi Al-Drobi | Odoo ERP Consultant, Accountant, Auditor and Python Developer" width="100%" />
+<img src="./assets/hadi-profile-banner.svg" alt="Eng. Hadi Al-Drobi — Odoo ERP Consultant, Accountant and Auditor" width="100%" />
 
-<br/>
+### Odoo ERP Consultant · Accountant · Auditor · Business Automation
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1100&color=9B70B3&center=true&vCenter=true&width=780&height=43&lines=Odoo+ERP+Implementation+%26+Customization;Accounting%2C+Audit+%26+Financial+Reporting;Python+Development+%7C+Business+Automation" alt="Odoo ERP Implementation, Accounting and Auditing, Python Development" />
+*Engineering reliable workflows at the intersection of ERP, finance and software.*
 
-<br/>
-
-<img src="https://img.shields.io/badge/ODOO-ERP%20CONSULTANT-875A7B?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo ERP Consultant" />
-<img src="https://img.shields.io/badge/ACCOUNTING-%26%20AUDIT-41435D?style=for-the-badge" alt="Accounting and Audit" />
-<img src="https://img.shields.io/badge/PYTHON-DEVELOPMENT-306998?style=for-the-badge&logo=python&logoColor=white" alt="Python Development" />
-
-<br/>
-
-<!-- Live GitHub profile metrics: third-party views are approximate page loads, not unique visitors -->
-<img src="https://komarev.com/ghpvc/?username=Eng-Hadi-Ali&label=PROFILE+VIEWS&color=875A7B&style=for-the-badge" alt="Approximate GitHub profile views counter" />
-<img src="https://img.shields.io/github/followers/Eng-Hadi-Ali?label=FOLLOWERS&style=for-the-badge&color=41435D&logo=github" alt="GitHub followers" />
-<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=PUBLIC%20REPOS&color=875A7B&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FEng-Hadi-Ali" alt="Number of public GitHub repositories" />
+![Odoo ERP](https://img.shields.io/badge/ODOO-ERP%20CONSULTING-875A7B?style=for-the-badge&logo=odoo&logoColor=white)
+![Accounting](https://img.shields.io/badge/FINANCE-ACCOUNTING%20%26%20AUDIT-163A53?style=for-the-badge)
+![Python](https://img.shields.io/badge/PYTHON-DEVELOPMENT-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flutter](https://img.shields.io/badge/FLUTTER-APPLICATIONS-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 </div>
 
 ---
 
-## 👋 A Little About Me
+## Professional Overview
 
-I'm **Eng. Hadi Al-Drobi**, an **Odoo ERP consultant and accounting professional** focused on bridging business processes, financial accuracy, and practical technology.
+I'm **Eng. Hadi Al-Drobi**, an Odoo ERP consultant, accountant and auditor. I translate business and financial requirements into structured workflows, dependable reporting and practical digital systems, combining accounting expertise with software development.
 
-I work at the intersection of **ERP implementation**, **accounting and auditing**, and **software development**—helping organizations translate operational requirements into clear, dependable workflows.
+## Core Expertise
 
-### 💼 What I Do
+| Discipline | Specialization |
+| :--- | :--- |
+| **Odoo ERP** | Implementation, process analysis, customization and automation |
+| **Accounting & Audit** | Financial reports, reconciliations and internal controls |
+| **Software Engineering** | Python, JavaScript, XML, Dart, Flutter and APIs |
+| **Data & Delivery** | PostgreSQL, Git, GitHub, Excel and testing |
 
-| 🧩 Odoo ERP | 📊 Accounting & Audit | 💻 Development |
-| :--- | :--- | :--- |
-| ERP implementation, business analysis, module customization, and workflow automation | Financial reporting, accounting workflows, internal controls, and audit-focused processes | Python development, PostgreSQL, XML, integrations, and maintainable Odoo solutions |
+## Selected Work
 
-### 🛠️ Tools & Technologies
+**YAFA — Multi-Service Platform**  
+Private development project integrating a Flutter customer application with Odoo-based service operations, bookings and customer–provider communication.
 
-<div align="center">
+**ERP & Accounting Solutions**  
+Business workflows across sales, purchasing, accounting, projects, financial reporting and audit-oriented controls.
 
-<img src="https://img.shields.io/badge/Odoo-875A7B?style=flat-square&logo=odoo&logoColor=white" alt="Odoo" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/XML-5C6773?style=flat-square" alt="XML" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-
-</div>
-
-## 📈 GitHub Activity
-
-<div align="center">
-
-<!-- Live public GitHub activity; powered by GitHub Profile Summary Cards. -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eng-Hadi-Ali&theme=github_dark" alt="GitHub public activity statistics" width="74%" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eng-Hadi-Ali&theme=github_dark" alt="Public GitHub contribution history and activity timeline" width="98%" />
-
-</div>
-
-### 🎯 Current Focus
-
-- Building **business-oriented Odoo modules** and organized ERP workflows.
-- Improving **financial reports**, traceability, and accounting user experience.
-- Growing my skills in **Python and software engineering**.
-- Designing solutions that are **useful, reliable, and easy to adopt**.
+<sub>Project summaries are deliberately high level; private code, internal architecture and client information are not published.</sub>
 
 ---
 
-## 🤝 Let's Connect
-
-Interested in **Odoo ERP implementation, accounting systems, financial reporting, or business process automation**? Feel free to get in touch.
+## Engineering Activity
 
 <div align="center">
 
-<a href="mailto:al.drobi2023@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-875A7B?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Hadi an email" /></a>
-<a href="https://github.com/Eng-Hadi-Ali?tab=repositories"><img src="https://img.shields.io/badge/View%20Repositories-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub repositories" /></a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eng-Hadi-Ali&theme=github_dark" alt="GitHub contribution timeline" width="98%" />
 
-<sub>al.drobi2023@gmail.com</sub>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eng-Hadi-Ali&theme=github_dark" alt="GitHub account activity statistics" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Eng-Hadi-Ali&theme=github_dark&utcOffset=3" alt="Contribution time distribution" width="48%" />
 
-<br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Eng-Hadi-Ali&theme=github_dark" alt="Languages across public repositories" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Eng-Hadi-Ali&theme=github_dark" alt="Languages by public commit history" width="48%" />
 
-**ERP · Finance · Technology**
+</div>
 
-*Transforming business requirements into smarter systems.*
+<sub>Activity cards are provided by a third-party service and reflect publicly accessible GitHub data; private development activity may not appear.</sub>
+
+## Current Focus
+
+- Building maintainable Odoo ERP applications and integrations
+- Developing scalable multi-service platforms
+- Improving accounting controls and financial reporting
+- Strengthening automated testing and engineering reliability
+
+## Connect
+
+I welcome professional collaboration on **Odoo ERP, accounting technology, business automation and digital transformation**.
+
+[View repositories](https://github.com/Eng-Hadi-Ali?tab=repositories)
+
+<div align="center">
+
+**ERP · FINANCE · ENGINEERING · AUTOMATION**
 
 </div>
