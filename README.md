@@ -1,59 +1,73 @@
 <div align="center">
 
-<img src="./assets/hadi-profile-banner.svg" alt="Eng. Hadi Al-Drobi — Digital Falcon Profile Banner" width="100%" />
+<img src="./assets/hadi-profile-banner.svg" alt="Eng. Hadi Al-Drobi — Odoo ERP Consultant, Accountant and Auditor" width="100%" />
 
-# Eng. Hadi Al-Drobi
+### Odoo ERP Consultant · Accountant · Auditor · Business Automation
 
-**Odoo ERP Consultant · Accountant · Auditor · Business Automation**
+*Engineering reliable workflows at the intersection of ERP, finance and software.*
 
-*Engineering smarter workflows. Building reliable business systems.*
-
-![Odoo](https://img.shields.io/badge/Odoo-ERP_Consulting-875A7B?style=for-the-badge)
-![Accounting](https://img.shields.io/badge/Accounting_%26_Audit-163A53?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-Development-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-Application_Development-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Odoo ERP](https://img.shields.io/badge/ODOO-ERP%20CONSULTING-875A7B?style=for-the-badge&logo=odoo&logoColor=white)
+![Accounting](https://img.shields.io/badge/FINANCE-ACCOUNTING%20%26%20AUDIT-163A53?style=for-the-badge)
+![Python](https://img.shields.io/badge/PYTHON-DEVELOPMENT-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flutter](https://img.shields.io/badge/FLUTTER-APPLICATIONS-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 </div>
 
 ---
 
-## Professional Profile
+## Professional Overview
 
-I am an **Odoo ERP consultant, accountant, and auditor** working at the intersection of business processes, financial reporting, and software engineering. I help translate complex operational requirements into practical ERP workflows, automation, and maintainable systems.
+I'm **Eng. Hadi Al-Drobi**, an Odoo ERP consultant, accountant and auditor. I translate business and financial requirements into structured workflows, dependable reporting and practical digital systems, combining accounting expertise with software development.
 
-## Expertise
+## Core Expertise
 
-| Domain | Focus |
-|---|---|
-| **Odoo ERP** | Implementation, business analysis, customization, and workflow automation |
-| **Accounting & Audit** | Financial reporting, reconciliations, and internal controls |
-| **Engineering** | Python, XML, JavaScript, Dart, Flutter, and API integration |
-| **Data & Tools** | PostgreSQL, Git, GitHub, and Excel |
+| Discipline | Specialization |
+| :--- | :--- |
+| **Odoo ERP** | Implementation, process analysis, customization and automation |
+| **Accounting & Audit** | Financial reports, reconciliations and internal controls |
+| **Software Engineering** | Python, JavaScript, XML, Dart, Flutter and APIs |
+| **Data & Delivery** | PostgreSQL, Git, GitHub, Excel and testing |
 
-## Featured Work
+## Selected Work
 
 **YAFA — Multi-Service Platform**  
-A private project in development combining a Flutter customer experience with Odoo-based operational workflows for bookings, service providers, and customer communication.
+Private development project integrating a Flutter customer application with Odoo-based service operations, bookings and customer–provider communication.
 
-**ERP Operations & Accounting**  
-Odoo workflows across sales, purchasing, accounting, project management, reporting, and process controls.
+**ERP & Accounting Solutions**  
+Business workflows across sales, purchasing, accounting, projects, financial reporting and audit-oriented controls.
 
-> Project descriptions are high-level. Private source code, customer data, credentials, and sensitive architecture are not disclosed.
+<sub>Project summaries are deliberately high level; private code, internal architecture and client information are not published.</sub>
 
-## GitHub Activity
+---
+
+## Engineering Activity
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eng-Hadi-Ali&theme=github_dark" alt="Public GitHub activity" width="65%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eng-Hadi-Ali&theme=github_dark" alt="GitHub contribution timeline" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eng-Hadi-Ali&theme=github_dark" alt="GitHub contribution timeline" width="98%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eng-Hadi-Ali&theme=github_dark" alt="GitHub account activity statistics" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Eng-Hadi-Ali&theme=github_dark&utcOffset=3" alt="Contribution time distribution" width="48%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Eng-Hadi-Ali&theme=github_dark" alt="Languages across public repositories" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Eng-Hadi-Ali&theme=github_dark" alt="Languages by public commit history" width="48%" />
 
 </div>
 
+<sub>Activity cards are provided by a third-party service and reflect publicly accessible GitHub data; private development activity may not appear.</sub>
+
+## Current Focus
+
+- Building maintainable Odoo ERP applications and integrations
+- Developing scalable multi-service platforms
+- Improving accounting controls and financial reporting
+- Strengthening automated testing and engineering reliability
+
 ## Connect
 
-Open to collaboration around **Odoo ERP, accounting technology, workflow automation, and system integration**.
+I welcome professional collaboration on **Odoo ERP, accounting technology, business automation and digital transformation**.
 
-[Explore my GitHub repositories](https://github.com/Eng-Hadi-Ali?tab=repositories)
+[View repositories](https://github.com/Eng-Hadi-Ali?tab=repositories)
 
 <div align="center">
 
