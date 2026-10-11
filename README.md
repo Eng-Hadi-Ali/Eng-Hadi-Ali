@@ -12,7 +12,7 @@
 
 ---
 
-## 40 contributions in the last year
+## 41 contributions in the last year
 
 <div align="center">
 
