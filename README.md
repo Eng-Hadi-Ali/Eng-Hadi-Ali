@@ -6,10 +6,7 @@
 
 *Engineering reliable workflows at the intersection of ERP, finance and software.*
 
-![Odoo ERP](https://img.shields.io/badge/ODOO-ERP%20CONSULTING-875A7B?style=for-the-badge&logo=odoo&logoColor=white)
-![Accounting](https://img.shields.io/badge/FINANCE-ACCOUNTING%20%26%20AUDIT-163A53?style=for-the-badge)
-![Python](https://img.shields.io/badge/PYTHON-DEVELOPMENT-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flutter](https://img.shields.io/badge/FLUTTER-APPLICATIONS-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+<img src="./assets/expertise-glass-ribbons.svg" alt="Animated expertise cards: Odoo ERP, Finance, Python, Flutter" width="100%" />
 
 </div>
 
@@ -40,13 +37,23 @@ Business workflows across sales, purchasing, accounting, projects, financial rep
 
 ---
 
-## Engineering Activity
+## Contributions in the Last Year
 
 <div align="center">
 
-<img src="./assets/github-glass-stats.svg" alt="Glass dashboard: live public repositories, stars, followers, and latest public push" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eng-Hadi-Ali&theme=github_dark" alt="GitHub contribution timeline" width="100%" />
 
-<sub>Public GitHub statistics, refreshed automatically every 12 hours. Private repositories and activity are excluded.</sub>
+</div>
+
+---
+
+## Engineering Metrics
+
+<div align="center">
+
+<img src="./assets/github-glass-stats.svg" alt="Public GitHub glass metrics dashboard" width="100%" />
+
+<sub>Public activity statistics are refreshed automatically when the scheduled workflow runs successfully. Private activity is excluded.</sub>
 
 </div>
 
