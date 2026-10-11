@@ -1,67 +1,54 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="535" viewBox="0 0 1400 535" role="img" aria-labelledby="dashboard-title dashboard-description">
-<title id="dashboard-title">Eng. Hadi Al-Drobi — Live GitHub Engineering Metrics</title>
-<desc id="dashboard-description">Four glass-style metric cards displaying public repositories, stars on original work, followers and latest public push.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="212" viewBox="0 0 1400 212" role="img" aria-labelledby="title description">
+<title id="title">Eng. Hadi Al-Drobi — Compact GitHub Engineering Metrics</title>
+<desc id="description">Four slim navy digital-glass strips showing public repositories, received stars, followers and latest public push. Data generated from GitHub public API.</desc>
 <defs>
-  <linearGradient id="panel-bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0A1D2D"/><stop offset=".62" stop-color="#102B3E"/><stop offset="1" stop-color="#081725"/></linearGradient>
-  <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#D6F1FF" stop-opacity=".16"/><stop offset=".38" stop-color="#80D6F9" stop-opacity=".075"/><stop offset="1" stop-color="#071626" stop-opacity=".28"/></linearGradient>
-  <linearGradient id="sheen" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#9DE9FF" stop-opacity=".54"/><stop offset=".55" stop-color="#9DE9FF" stop-opacity=".035"/><stop offset="1" stop-color="#9DE9FF" stop-opacity=".005"/></linearGradient>
-  <pattern id="precision-grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#86BBD5" stroke-opacity=".09"/></pattern>
-  <filter id="soft" x="-30%" y="-50%" width="160%" height="200%"><feGaussianBlur stdDeviation="13"/></filter>
+ <linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071522"/><stop offset=".55" stop-color="#102D44"/><stop offset="1" stop-color="#091B2B"/></linearGradient>
+ <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#264860" stop-opacity=".68"/><stop offset=".6" stop-color="#17384D" stop-opacity=".48"/><stop offset="1" stop-color="#071724" stop-opacity=".82"/></linearGradient>
+ <linearGradient id="sheen" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#A7E4FD" stop-opacity=".66"/><stop offset="1" stop-color="#A7E4FD" stop-opacity=".02"/></linearGradient>
+ <pattern id="grid" width="35" height="35" patternUnits="userSpaceOnUse"><path d="M35 0H0V35" fill="none" stroke="#A0D6F1" stroke-opacity=".07"/></pattern>
 </defs>
-<rect width="1400" height="535" rx="21" fill="url(#panel-bg)"/><rect width="1400" height="535" rx="21" fill="url(#precision-grid)"/>
-<g stroke="#6EC4EB" stroke-opacity=".21" fill="none" stroke-width="2"><path d="M0 476H110L138 449H240"/><path d="M1050 43H1270L1302 76H1400"/></g>
-<circle cx="58" cy="53" r="6" fill="#8FE9B6"><animate attributeName="opacity" values=".35;1;.35" dur="2.8s" repeatCount="indefinite"/></circle>
-<text x="78" y="59" fill="#F1F9FE" font-family="Arial,sans-serif" font-size="26" font-weight="700" letter-spacing="2">ENGINEERING METRICS</text>
-<text x="1048" y="58" fill="#83BBD4" font-family="monospace" font-size="15" letter-spacing="1">PUBLIC GITHUB TELEMETRY</text>
-<path d="M46 79H1354" stroke="#5B92AF" stroke-opacity=".5"/>
+<rect width="1400" height="212" rx="16" fill="url(#background)"/><rect width="1400" height="212" rx="16" fill="url(#grid)"/>
 <g font-family="Arial,Helvetica,sans-serif">
-<!-- first card -->
 <g>
-<rect x="46" y="102" width="640" height="173" rx="17" fill="#8BC5DF" fill-opacity=".12" filter="url(#soft)"/>
-<rect x="46" y="102" width="640" height="173" rx="17" fill="url(#glass)" stroke="#9DDFFF" stroke-opacity=".52" stroke-width="1.5"/>
-<path d="M65 104H666" stroke="url(#sheen)" stroke-width="2"/>
-<rect x="67" y="123" width="4" height="130" rx="2" fill="#8BD9F7" fill-opacity=".8"/>
-<text x="94" y="143" fill="#A8D6E9" font-size="17" font-weight="700" letter-spacing="2">PUBLIC REPOSITORIES</text>
-<text x="93" y="224" fill="#F4FAFF" font-size="63" font-weight="700">4</text>
-<text x="428" y="232" fill="#83B2CA" font-size="15" letter-spacing="1">PUBLIC PORTFOLIO</text>
-<g fill="#8BCFEF" fill-opacity=".6"><rect x="481" y="166" width="23" height="12" rx="2"/><rect x="513" y="153" width="23" height="25" rx="2"/><rect x="545" y="140" width="23" height="38" rx="2"/><rect x="577" y="126" width="23" height="52" rx="2"/></g>
+<rect x="22" y="17" width="667" height="80" rx="14" fill="url(#glass)" stroke="#5A98B8" stroke-opacity=".82" stroke-width="1.5"/>
+<path d="M39 19h633" stroke="url(#sheen)" stroke-width="2"/>
+<path d="M31 36v42" stroke="#8BDFFF" stroke-opacity=".65" stroke-width="3"/>
+<path d="M45 42h12l6 7h23v25h-41z" fill="none" stroke="#8BDFFF" stroke-width="2.7" stroke-linejoin="round"/>
+<text x="129" y="48" fill="#8BDFFF" font-size="19" font-weight="700" letter-spacing="1.3">PUBLIC REPOSITORIES</text>
+<text x="129" y="73" fill="#9DBECF" font-size="14" letter-spacing=".7">PUBLIC PORTFOLIO</text>
+<text x="664" y="68" fill="#F1FAFF" font-size="42" font-weight="700" text-anchor="end" font-family="Arial,Helvetica,sans-serif">4</text>
+<circle cx="672" cy="35" r="2.7" fill="#8BDFFF"><animate attributeName="opacity" values=".3;1;.3" dur="3s" repeatCount="indefinite"/></circle>
 </g>
-<!-- second card -->
 <g>
-<rect x="714" y="102" width="640" height="173" rx="17" fill="#8BC5DF" fill-opacity=".12" filter="url(#soft)"/>
-<rect x="714" y="102" width="640" height="173" rx="17" fill="url(#glass)" stroke="#9DDFFF" stroke-opacity=".52" stroke-width="1.5"/>
-<path d="M733 104H1334" stroke="url(#sheen)" stroke-width="2"/>
-<rect x="735" y="123" width="4" height="130" rx="2" fill="#8BD9F7" fill-opacity=".8"/>
-<text x="762" y="143" fill="#A8D6E9" font-size="17" font-weight="700" letter-spacing="2">STARS RECEIVED</text>
-<text x="761" y="224" fill="#F4FAFF" font-size="63" font-weight="700">2</text>
-<text x="1090" y="232" fill="#83B2CA" font-size="14" letter-spacing=".4">ORIGINAL PUBLIC REPOS</text>
-<path d="M1263 143L1272 164L1296 167L1278 183L1283 208L1263 196L1242 208L1247 183L1229 167L1253 164Z" fill="#84D7F7" fill-opacity=".7"/>
+<rect x="711" y="17" width="667" height="80" rx="14" fill="url(#glass)" stroke="#5A98B8" stroke-opacity=".82" stroke-width="1.5"/>
+<path d="M728 19h633" stroke="url(#sheen)" stroke-width="2"/>
+<path d="M720 36v42" stroke="#A0E1FC" stroke-opacity=".65" stroke-width="3"/>
+<path d="M755 37l6 13 15 2-11 10 3 15-13-7-13 7 3-15-11-10 15-2z" fill="none" stroke="#A0E1FC" stroke-width="2.5" stroke-linejoin="round"/>
+<text x="818" y="48" fill="#A0E1FC" font-size="19" font-weight="700" letter-spacing="1.3">STARS RECEIVED</text>
+<text x="818" y="73" fill="#9DBECF" font-size="14" letter-spacing=".7">ORIGINAL REPOSITORIES</text>
+<text x="1353" y="68" fill="#F1FAFF" font-size="42" font-weight="700" text-anchor="end" font-family="Arial,Helvetica,sans-serif">2</text>
+<circle cx="1361" cy="35" r="2.7" fill="#A0E1FC"><animate attributeName="opacity" values=".3;1;.3" dur="3.55s" repeatCount="indefinite"/></circle>
 </g>
-<!-- third card -->
 <g>
-<rect x="46" y="293" width="640" height="173" rx="17" fill="#8BC5DF" fill-opacity=".12" filter="url(#soft)"/>
-<rect x="46" y="293" width="640" height="173" rx="17" fill="url(#glass)" stroke="#9DDFFF" stroke-opacity=".52" stroke-width="1.5"/>
-<path d="M65 295H666" stroke="url(#sheen)" stroke-width="2"/>
-<rect x="67" y="314" width="4" height="130" rx="2" fill="#8BD9F7" fill-opacity=".8"/>
-<text x="94" y="334" fill="#A8D6E9" font-size="17" font-weight="700" letter-spacing="2">FOLLOWERS</text>
-<text x="93" y="415" fill="#F4FAFF" font-size="63" font-weight="700">—</text>
-<text x="427" y="423" fill="#83B2CA" font-size="15" letter-spacing="1">PUBLIC COMMUNITY</text>
-<g stroke="#91DBFB" stroke-width="2.8" fill="none" stroke-opacity=".7"><circle cx="557" cy="366" r="13"/><circle cx="592" cy="369" r="10"/><path d="M535 409q22-39 45 0m-2 0q15-29 32 0"/></g>
+<rect x="22" y="114" width="667" height="80" rx="14" fill="url(#glass)" stroke="#5A98B8" stroke-opacity=".82" stroke-width="1.5"/>
+<path d="M39 116h633" stroke="url(#sheen)" stroke-width="2"/>
+<path d="M31 133v42" stroke="#82D5F5" stroke-opacity=".65" stroke-width="3"/>
+<circle cx="65" cy="143" r="8" fill="none" stroke="#82D5F5" stroke-width="2.6"/><path d="M49 170q16-24 32 0" fill="none" stroke="#82D5F5" stroke-width="2.6"/><circle cx="84" cy="146" r="6" fill="none" stroke="#82D5F5" stroke-width="2.4"/>
+<text x="129" y="145" fill="#82D5F5" font-size="19" font-weight="700" letter-spacing="1.3">FOLLOWERS</text>
+<text x="129" y="170" fill="#9DBECF" font-size="14" letter-spacing=".7">GITHUB COMMUNITY</text>
+<text x="664" y="165" fill="#F1FAFF" font-size="42" font-weight="700" text-anchor="end" font-family="Arial,Helvetica,sans-serif">—</text>
+<circle cx="672" cy="132" r="2.7" fill="#82D5F5"><animate attributeName="opacity" values=".3;1;.3" dur="4.1s" repeatCount="indefinite"/></circle>
 </g>
-<!-- fourth card -->
 <g>
-<rect x="714" y="293" width="640" height="173" rx="17" fill="#8BC5DF" fill-opacity=".12" filter="url(#soft)"/>
-<rect x="714" y="293" width="640" height="173" rx="17" fill="url(#glass)" stroke="#9DDFFF" stroke-opacity=".52" stroke-width="1.5"/>
-<path d="M733 295H1334" stroke="url(#sheen)" stroke-width="2"/>
-<rect x="735" y="314" width="4" height="130" rx="2" fill="#8BD9F7" fill-opacity=".8"/>
-<text x="762" y="334" fill="#A8D6E9" font-size="17" font-weight="700" letter-spacing="2">LATEST PUBLIC PUSH</text>
-<text x="761" y="412" fill="#F4FAFF" font-size="50" font-weight="700">SYNC PENDING</text>
-<text x="1062" y="432" fill="#83B2CA" font-size="14" letter-spacing="1">REPOSITORY ACTIVITY</text>
-<g fill="#8BD4F1"><circle cx="1278" cy="351" r="4"/><circle cx="1278" cy="367" r="4"/><circle cx="1278" cy="383" r="4"/></g>
+<rect x="711" y="114" width="667" height="80" rx="14" fill="url(#glass)" stroke="#5A98B8" stroke-opacity=".82" stroke-width="1.5"/>
+<path d="M728 116h633" stroke="url(#sheen)" stroke-width="2"/>
+<path d="M720 133v42" stroke="#95D6F1" stroke-opacity=".65" stroke-width="3"/>
+<circle cx="756" cy="152" r="18" fill="none" stroke="#95D6F1" stroke-width="2.5"/><path d="M756 141v11l8 5" fill="none" stroke="#95D6F1" stroke-linecap="round" stroke-width="2.5"/>
+<text x="818" y="145" fill="#95D6F1" font-size="19" font-weight="700" letter-spacing="1.3">LATEST PUBLIC PUSH</text>
+<text x="818" y="170" fill="#9DBECF" font-size="14" letter-spacing=".7">RECENT REPOSITORY ACTIVITY</text>
+<text x="1353" y="165" fill="#F1FAFF" font-size="29" font-weight="700" text-anchor="end" font-family="Arial,Helvetica,sans-serif">11 OCT 2026</text>
+<circle cx="1361" cy="132" r="2.7" fill="#95D6F1"><animate attributeName="opacity" values=".3;1;.3" dur="4.65s" repeatCount="indefinite"/></circle>
 </g>
 </g>
-<path d="M47 487H1354" stroke="#619FC0" stroke-opacity=".4"/>
-<text x="51" y="513" fill="#94BFD0" font-family="monospace" font-size="14" letter-spacing=".6">LAST SYNC: AWAITING AUTOMATED SYNC</text>
-<text x="1038" y="513" fill="#94BFD0" font-family="monospace" font-size="14">REFRESH CYCLE: 12 HOURS</text>
-<rect x="5" y="5" width="1390" height="525" rx="17" stroke="#6CA8C5" stroke-opacity=".33" stroke-width="2" fill="none"/>
+<rect x="4" y="4" width="1392" height="204" rx="13" fill="none" stroke="#6CA7C3" stroke-opacity=".34" stroke-width="1.5"/>
 </svg>
