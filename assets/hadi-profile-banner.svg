@@ -1,50 +1,68 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
-  <title id="title">Eng. Hadi Al-Drobi - Odoo ERP Consultant</title>
-  <desc id="desc">Professional profile banner highlighting Odoo ERP, accounting, auditing, and Python development.</desc>
-  <defs>
-    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#14101f"/><stop offset=".6" stop-color="#21182f"/><stop offset="1" stop-color="#362344"/></linearGradient>
-    <linearGradient id="purple" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#bb90ca"/><stop offset="1" stop-color="#8e60aa"/></linearGradient>
-    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3c2b51"/><stop offset="1" stop-color="#241c35"/></linearGradient>
-    <pattern id="grid" width="31" height="31" patternUnits="userSpaceOnUse"><path d="M31 0H0V31" fill="none" stroke="#c4add5" stroke-opacity=".065" stroke-width="1"/></pattern>
-    <filter id="soft" x="-20%" y="-30%" width="150%" height="170%"><feGaussianBlur stdDeviation="32"/></filter>
-  </defs>
-  <rect width="1200" height="380" rx="22" fill="url(#background)"/>
-  <rect width="1200" height="380" rx="22" fill="url(#grid)"/>
-  <circle cx="1030" cy="20" r="160" fill="#9d6bb9" opacity=".18" filter="url(#soft)"/>
-  <circle cx="240" cy="400" r="140" fill="#5c326f" opacity=".3" filter="url(#soft)"/>
-  <path d="M0 346C240 304 390 395 610 350S1000 296 1200 337" stroke="#9d79bb" stroke-opacity=".22" fill="none" stroke-width="2"/>
-  <rect x="48" y="38" width="56" height="56" rx="16" fill="url(#purple)"/>
-  <text x="76" y="75" text-anchor="middle" fill="#ffffff" font-size="21" font-family="Arial, Helvetica, sans-serif" font-weight="700">HD</text>
-  <text x="120" y="60" fill="#d9c3e5" font-size="13" letter-spacing="3" font-family="Arial, Helvetica, sans-serif" font-weight="700">ERP  /  FINANCE  /  SOFTWARE</text>
-  <rect x="48" y="118" width="47" height="4" rx="2" fill="url(#purple)"/>
-  <text x="48" y="178" font-size="52" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-weight="700" letter-spacing="1">ENG. HADI AL-DROBI</text>
-  <text x="49" y="218" font-size="23" fill="#ceb0df" font-family="Arial, Helvetica, sans-serif" font-weight="600">Odoo ERP Consultant</text>
-  <text x="49" y="252" font-size="19" fill="#e4d9ea" font-family="Arial, Helvetica, sans-serif">Accountant  •  Auditor  •  Python Developer</text>
-  <rect x="49" y="284" width="518" height="1" fill="#9579a8" opacity=".43"/>
-  <circle cx="56" cy="313" r="4" fill="#85d3b5"/>
-  <text x="70" y="319" font-size="16" fill="#cabcd2" font-family="Arial, Helvetica, sans-serif">Based in Yemen</text>
-  <circle cx="236" cy="313" r="3" fill="#947dad"/>
-  <text x="250" y="319" font-size="16" fill="#cabcd2" font-family="Arial, Helvetica, sans-serif">Building better business systems</text>
-  <rect x="734" y="38" width="420" height="295" rx="23" fill="url(#panel)" stroke="#c4a1d8" stroke-opacity=".32"/>
-  <rect x="756" y="59" width="376" height="40" rx="10" fill="#ffffff" fill-opacity=".055"/>
-  <circle cx="777" cy="79" r="6" fill="#86d5ba"/>
-  <text x="794" y="84" font-size="15" font-family="Arial, Helvetica, sans-serif" fill="#f2eaf6" font-weight="700">BUSINESS SYSTEMS</text>
-  <rect x="1023" y="68" width="87" height="22" rx="11" fill="#a077bb" fill-opacity=".24"/>
-  <text x="1066" y="83" text-anchor="middle" font-size="11" font-family="Arial, Helvetica, sans-serif" fill="#e7c8f3">FOCUS AREAS</text>
-  <rect x="756" y="115" width="376" height="54" rx="12" fill="#ffffff" fill-opacity=".07" stroke="#ffffff" stroke-opacity=".07"/>
-  <rect x="770" y="128" width="29" height="29" rx="8" fill="#ac78bd" fill-opacity=".45"/>
-  <text x="784" y="148" text-anchor="middle" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="700" fill="#ffffff">01</text>
-  <text x="812" y="138" font-size="13" font-family="Arial, Helvetica, sans-serif" fill="#f2eaf6" font-weight="700">ODOO ERP</text>
-  <text x="812" y="155" font-size="11" font-family="Arial, Helvetica, sans-serif" fill="#c5b8d0">Implementation &amp; automation</text>
-  <rect x="756" y="181" width="376" height="54" rx="12" fill="#ffffff" fill-opacity=".07" stroke="#ffffff" stroke-opacity=".07"/>
-  <rect x="770" y="194" width="29" height="29" rx="8" fill="#ac78bd" fill-opacity=".45"/>
-  <text x="784" y="214" text-anchor="middle" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="700" fill="#ffffff">02</text>
-  <text x="812" y="204" font-size="13" font-family="Arial, Helvetica, sans-serif" fill="#f2eaf6" font-weight="700">ACCOUNTING &amp; AUDIT</text>
-  <text x="812" y="221" font-size="11" font-family="Arial, Helvetica, sans-serif" fill="#c5b8d0">Controls &amp; financial reporting</text>
-  <rect x="756" y="247" width="376" height="54" rx="12" fill="#ffffff" fill-opacity=".07" stroke="#ffffff" stroke-opacity=".07"/>
-  <rect x="770" y="260" width="29" height="29" rx="8" fill="#ac78bd" fill-opacity=".45"/>
-  <text x="784" y="280" text-anchor="middle" font-size="15" font-family="Arial, Helvetica, sans-serif" font-weight="700" fill="#ffffff">03</text>
-  <text x="812" y="270" font-size="13" font-family="Arial, Helvetica, sans-serif" fill="#f2eaf6" font-weight="700">PYTHON DEVELOPMENT</text>
-  <text x="812" y="287" font-size="11" font-family="Arial, Helvetica, sans-serif" fill="#c5b8d0">Reliable, maintainable solutions</text>
-  <rect x="0" y="371" width="1200" height="9" rx="4" fill="url(#purple)" opacity=".82"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="420" viewBox="0 0 1400 420" role="img" aria-labelledby="title description">
+<title id="title">Eng. Hadi Al-Drobi — ERP, Finance and Engineering</title>
+<desc id="description">Professional navy digital banner with an animated programming terminal, subtle circuit traces, and engineering credentials.</desc>
+<defs>
+  <linearGradient id="night" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#071522"/><stop offset=".55" stop-color="#102D44"/><stop offset="1" stop-color="#091B2B"/>
+  </linearGradient>
+  <linearGradient id="light" x1="0" y1="0" x2="1" y2="0">
+    <stop stop-color="#54A2CC"/><stop offset=".5" stop-color="#B8EAFD"/><stop offset="1" stop-color="#54A2CC"/>
+  </linearGradient>
+  <pattern id="technical-grid" width="38" height="38" patternUnits="userSpaceOnUse">
+    <path d="M38 0H0V38" fill="none" stroke="#93CBE3" stroke-opacity=".09"/>
+  </pattern>
+  <clipPath id="type-one"><rect x="68" y="111" width="315" height="26">
+    <animate attributeName="width" dur="12s" repeatCount="indefinite" values="0;292;292;0" keyTimes="0;.23;.91;1"/>
+  </rect></clipPath>
+  <clipPath id="type-two"><rect x="68" y="149" width="315" height="26">
+    <animate attributeName="width" dur="12s" repeatCount="indefinite" values="0;0;280;280;0" keyTimes="0;.23;.49;.91;1"/>
+  </rect></clipPath>
+  <clipPath id="type-three"><rect x="68" y="187" width="315" height="26">
+    <animate attributeName="width" dur="12s" repeatCount="indefinite" values="0;0;0;302;302;0" keyTimes="0;.49;.53;.77;.91;1"/>
+  </rect></clipPath>
+</defs>
+<rect width="1400" height="420" rx="20" fill="url(#night)"/>
+<rect width="1400" height="420" rx="20" fill="url(#technical-grid)"/>
+<g fill="none" stroke="#6CA5C2" stroke-opacity=".23" stroke-width="2">
+  <path d="M0 337H230L278 289H390"/><path d="M0 364H164L200 329H351"/>
+  <path d="M1020 40H1167L1206 77H1400"/><path d="M1120 70H1192L1228 104H1400"/>
+  <path d="M1044 346H1242L1287 301H1400"/>
+</g>
+<g fill="#8CE0FF"><circle cx="277" cy="290" r="3"><animate attributeName="opacity" values=".2;1;.2" dur="3.6s" repeatCount="indefinite"/></circle>
+<circle cx="1208" cy="78" r="3"><animate attributeName="opacity" values="1;.2;1" dur="4.2s" repeatCount="indefinite"/></circle></g>
+<rect x="38" y="62" width="363" height="244" rx="15" fill="#061321" stroke="#3D728E" stroke-width="1.5"/>
+<path d="M53 62H386Q401 62 401 77V91H38V77Q38 62 53 62Z" fill="#183649"/>
+<circle cx="60" cy="77" r="4" fill="#649DBA"/><circle cx="75" cy="77" r="4" fill="#91C5DD"/><circle cx="90" cy="77" r="4" fill="#D1ECF8"/>
+<text x="109" y="81" fill="#BFDEED" font-family="monospace" font-size="12">hadi@engineering: ~/projects</text>
+<g font-family="monospace" font-size="16">
+  <text x="68" y="130" fill="#A8E8FA" clip-path="url(#type-one)">const expert = 'Odoo ERP';</text>
+  <text x="68" y="168" fill="#D4EAF6" clip-path="url(#type-two)">finance.validate(ledger);</text>
+  <text x="68" y="206" fill="#A8E8FA" clip-path="url(#type-three)">await automate(workflows);</text>
+  <text x="68" y="254" fill="#8DDBB3" font-size="14">● ENGINEERING IN PROGRESS</text>
+</g>
+<rect x="68" y="274" width="9" height="3" fill="#CFF6FF"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+<text x="40" y="335" font-family="monospace" font-size="13" letter-spacing="2" fill="#83B8D0">BUSINESS LOGIC  /  CLEAN ENGINEERING</text>
+<g font-family="Arial,Helvetica,sans-serif">
+  <text x="446" y="109" fill="#82C8E7" font-size="16" font-weight="700" letter-spacing="3">ERP CONSULTING  /  FINANCE  /  AUTOMATION</text>
+  <text x="445" y="189" fill="#F4FAFE" font-size="55" font-weight="700">Eng. Hadi Al-Drobi</text>
+  <path d="M447 211H1256" stroke="#28536C" stroke-width="3"/>
+  <path d="M447 211H1256" stroke="url(#light)" stroke-width="3" stroke-dasharray="30 32"><animate attributeName="stroke-dashoffset" values="0;-124" dur="8s" repeatCount="indefinite"/></path>
+  <text x="447" y="251" fill="#D1E9F4" font-size="22">Odoo ERP Consultant  ·  Accountant  ·  Auditor</text>
+  <text x="447" y="289" fill="#93BFD2" font-size="18">Transforming complex operations into dependable systems.</text>
+</g>
+<g font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing=".6">
+  <rect x="448" y="324" width="130" height="36" rx="8" fill="#16394F" stroke="#3F7796"/>
+  <text x="469" y="347" fill="#D8F1F9">ODOO ERP</text>
+  <rect x="592" y="324" width="153" height="36" rx="8" fill="#16394F" stroke="#3F7796"/>
+  <text x="613" y="347" fill="#D8F1F9">ACCOUNTING</text>
+  <rect x="759" y="324" width="144" height="36" rx="8" fill="#16394F" stroke="#3F7796"/>
+  <text x="781" y="347" fill="#D8F1F9">AUDIT</text>
+  <rect x="917" y="324" width="157" height="36" rx="8" fill="#16394F" stroke="#3F7796"/>
+  <text x="936" y="347" fill="#D8F1F9">AUTOMATION</text>
+</g>
+<g opacity=".55"><circle cx="1340" cy="145" r="33" fill="none" stroke="#659ABA" stroke-width="1.5"/>
+<circle cx="1340" cy="145" r="20" fill="none" stroke="#659ABA" stroke-width="1"/>
+<path d="M1340 100V190M1295 145H1385" stroke="#659ABA" stroke-width="1"/>
+<circle cx="1340" cy="145" r="4" fill="#A6E5FC"><animate attributeName="opacity" values=".4;1;.4" dur="3s" repeatCount="indefinite"/></circle></g>
+<rect x="5" y="5" width="1390" height="410" rx="16" fill="none" stroke="#5F9AB8" stroke-opacity=".55" stroke-width="2"/>
 </svg>
