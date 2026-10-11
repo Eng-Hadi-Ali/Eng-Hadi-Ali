@@ -12,6 +12,16 @@
 
 ---
 
+## 40 contributions in the last year
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eng-Hadi-Ali&theme=github_dark" alt="GitHub contribution timeline" width="100%" />
+
+</div>
+
+---
+
 ## Professional Overview
 
 I'm **Eng. Hadi Al-Drobi**, an Odoo ERP consultant, accountant and auditor. I translate business and financial requirements into structured workflows, dependable reporting and practical digital systems, combining accounting expertise with software development.
@@ -34,16 +44,6 @@ Private development project integrating a Flutter customer application with Odoo
 Business workflows across sales, purchasing, accounting, projects, financial reporting and audit-oriented controls.
 
 <sub>Project summaries are deliberately high level; private code, internal architecture and client information are not published.</sub>
-
----
-
-## Contributions in the Last Year
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eng-Hadi-Ali&theme=github_dark" alt="GitHub contribution timeline" width="100%" />
-
-</div>
 
 ---
 
