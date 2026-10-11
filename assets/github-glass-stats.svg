@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="535" viewBox="0 0 1400 535" role="img" aria-labelledby="dashboard-title dashboard-description">
+<title id="dashboard-title">Eng. Hadi Al-Drobi — Live GitHub Engineering Metrics</title>
+<desc id="dashboard-description">Four glass-style metric cards displaying public repositories, stars on original work, followers and latest public push.</desc>
+<defs>
+  <linearGradient id="panel-bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0A1D2D"/><stop offset=".62" stop-color="#102B3E"/><stop offset="1" stop-color="#081725"/></linearGradient>
+  <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#D6F1FF" stop-opacity=".16"/><stop offset=".38" stop-color="#80D6F9" stop-opacity=".075"/><stop offset="1" stop-color="#071626" stop-opacity=".28"/></linearGradient>
+  <linearGradient id="sheen" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#9DE9FF" stop-opacity=".54"/><stop offset=".55" stop-color="#9DE9FF" stop-opacity=".035"/><stop offset="1" stop-color="#9DE9FF" stop-opacity=".005"/></linearGradient>
+  <pattern id="precision-grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#86BBD5" stroke-opacity=".09"/></pattern>
+  <filter id="soft" x="-30%" y="-50%" width="160%" height="200%"><feGaussianBlur stdDeviation="13"/></filter>
+</defs>
+<rect width="1400" height="535" rx="21" fill="url(#panel-bg)"/><rect width="1400" height="535" rx="21" fill="url(#precision-grid)"/>
+<g stroke="#6EC4EB" stroke-opacity=".21" fill="none" stroke-width="2"><path d="M0 476H110L138 449H240"/><path d="M1050 43H1270L1302 76H1400"/></g>
+<circle cx="58" cy="53" r="6" fill="#8FE9B6"><animate attributeName="opacity" values=".35;1;.35" dur="2.8s" repeatCount="indefinite"/></circle>
+<text x="78" y="59" fill="#F1F9FE" font-family="Arial,sans-serif" font-size="26" font-weight="700" letter-spacing="2">ENGINEERING METRICS</text>
+<text x="1048" y="58" fill="#83BBD4" font-family="monospace" font-size="15" letter-spacing="1">PUBLIC GITHUB TELEMETRY</text>
+<path d="M46 79H1354" stroke="#5B92AF" stroke-opacity=".5"/>
+<g font-family="Arial,Helvetica,sans-serif">
+<!-- first card -->
+<g>
+<rect x="46" y="102" width="640" height="173" rx="17" fill="#8BC5DF" fill-opacity=".12" filter="url(#soft)"/>
+<rect x="46" y="102" width="640" height="173" rx="17" fill="url(#glass)" stroke="#9DDFFF" stroke-opacity=".52" stroke-width="1.5"/>
+<path d="M65 104H666" stroke="url(#sheen)" stroke-width="2"/>
+<rect x="67" y="123" width="4" height="130" rx="2" fill="#8BD9F7" fill-opacity=".8"/>
+<text x="94" y="143" fill="#A8D6E9" font-size="17" font-weight="700" letter-spacing="2">PUBLIC REPOSITORIES</text>
+<text x="93" y="224" fill="#F4FAFF" font-size="63" font-weight="700">4</text>
+<text x="428" y="232" fill="#83B2CA" font-size="15" letter-spacing="1">PUBLIC PORTFOLIO</text>
+<g fill="#8BCFEF" fill-opacity=".6"><rect x="481" y="166" width="23" height="12" rx="2"/><rect x="513" y="153" width="23" height="25" rx="2"/><rect x="545" y="140" width="23" height="38" rx="2"/><rect x="577" y="126" width="23" height="52" rx="2"/></g>
+</g>
+<!-- second card -->
+<g>
+<rect x="714" y="102" width="640" height="173" rx="17" fill="#8BC5DF" fill-opacity=".12" filter="url(#soft)"/>
+<rect x="714" y="102" width="640" height="173" rx="17" fill="url(#glass)" stroke="#9DDFFF" stroke-opacity=".52" stroke-width="1.5"/>
+<path d="M733 104H1334" stroke="url(#sheen)" stroke-width="2"/>
+<rect x="735" y="123" width="4" height="130" rx="2" fill="#8BD9F7" fill-opacity=".8"/>
+<text x="762" y="143" fill="#A8D6E9" font-size="17" font-weight="700" letter-spacing="2">STARS RECEIVED</text>
+<text x="761" y="224" fill="#F4FAFF" font-size="63" font-weight="700">2</text>
+<text x="1090" y="232" fill="#83B2CA" font-size="14" letter-spacing=".4">ORIGINAL PUBLIC REPOS</text>
+<path d="M1263 143L1272 164L1296 167L1278 183L1283 208L1263 196L1242 208L1247 183L1229 167L1253 164Z" fill="#84D7F7" fill-opacity=".7"/>
+</g>
+<!-- third card -->
+<g>
+<rect x="46" y="293" width="640" height="173" rx="17" fill="#8BC5DF" fill-opacity=".12" filter="url(#soft)"/>
+<rect x="46" y="293" width="640" height="173" rx="17" fill="url(#glass)" stroke="#9DDFFF" stroke-opacity=".52" stroke-width="1.5"/>
+<path d="M65 295H666" stroke="url(#sheen)" stroke-width="2"/>
+<rect x="67" y="314" width="4" height="130" rx="2" fill="#8BD9F7" fill-opacity=".8"/>
+<text x="94" y="334" fill="#A8D6E9" font-size="17" font-weight="700" letter-spacing="2">FOLLOWERS</text>
+<text x="93" y="415" fill="#F4FAFF" font-size="63" font-weight="700">—</text>
+<text x="427" y="423" fill="#83B2CA" font-size="15" letter-spacing="1">PUBLIC COMMUNITY</text>
+<g stroke="#91DBFB" stroke-width="2.8" fill="none" stroke-opacity=".7"><circle cx="557" cy="366" r="13"/><circle cx="592" cy="369" r="10"/><path d="M535 409q22-39 45 0m-2 0q15-29 32 0"/></g>
+</g>
+<!-- fourth card -->
+<g>
+<rect x="714" y="293" width="640" height="173" rx="17" fill="#8BC5DF" fill-opacity=".12" filter="url(#soft)"/>
+<rect x="714" y="293" width="640" height="173" rx="17" fill="url(#glass)" stroke="#9DDFFF" stroke-opacity=".52" stroke-width="1.5"/>
+<path d="M733 295H1334" stroke="url(#sheen)" stroke-width="2"/>
+<rect x="735" y="314" width="4" height="130" rx="2" fill="#8BD9F7" fill-opacity=".8"/>
+<text x="762" y="334" fill="#A8D6E9" font-size="17" font-weight="700" letter-spacing="2">LATEST PUBLIC PUSH</text>
+<text x="761" y="412" fill="#F4FAFF" font-size="50" font-weight="700">SYNC PENDING</text>
+<text x="1062" y="432" fill="#83B2CA" font-size="14" letter-spacing="1">REPOSITORY ACTIVITY</text>
+<g fill="#8BD4F1"><circle cx="1278" cy="351" r="4"/><circle cx="1278" cy="367" r="4"/><circle cx="1278" cy="383" r="4"/></g>
+</g>
+</g>
+<path d="M47 487H1354" stroke="#619FC0" stroke-opacity=".4"/>
+<text x="51" y="513" fill="#94BFD0" font-family="monospace" font-size="14" letter-spacing=".6">LAST SYNC: AWAITING AUTOMATED SYNC</text>
+<text x="1038" y="513" fill="#94BFD0" font-family="monospace" font-size="14">REFRESH CYCLE: 12 HOURS</text>
+<rect x="5" y="5" width="1390" height="525" rx="17" stroke="#6CA8C5" stroke-opacity=".33" stroke-width="2" fill="none"/>
+</svg>
