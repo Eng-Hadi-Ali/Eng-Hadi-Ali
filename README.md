@@ -44,17 +44,13 @@ Business workflows across sales, purchasing, accounting, projects, financial rep
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eng-Hadi-Ali&theme=github_dark" alt="GitHub contribution timeline" width="98%" />
+<img src="./assets/github-glass-stats.svg" alt="Glass dashboard: live public repositories, stars, followers, and latest public push" width="100%" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eng-Hadi-Ali&theme=github_dark" alt="GitHub account activity statistics" width="48%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Eng-Hadi-Ali&theme=github_dark&utcOffset=3" alt="Contribution time distribution" width="48%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Eng-Hadi-Ali&theme=github_dark" alt="Languages across public repositories" width="48%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Eng-Hadi-Ali&theme=github_dark" alt="Languages by public commit history" width="48%" />
+<sub>Public GitHub statistics, refreshed automatically every 12 hours. Private repositories and activity are excluded.</sub>
 
 </div>
 
-<sub>Activity cards are provided by a third-party service and reflect publicly accessible GitHub data; private development activity may not appear.</sub>
+---
 
 ## Current Focus
 
