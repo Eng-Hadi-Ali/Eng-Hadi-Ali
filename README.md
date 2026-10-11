@@ -1,124 +1,62 @@
- <div align="center">
+<div align="center">
 
-<img src="./assets/hadi-profile-banner.svg" alt="Eng. Hadi Al-Drobi | Odoo ERP Consultant, Accountant & Auditor" width="100%" />
+<img src="./assets/hadi-profile-banner.svg" alt="Eng. Hadi Al-Drobi — Digital Falcon Profile Banner" width="100%" />
 
 # Eng. Hadi Al-Drobi
 
-**Odoo ERP Consultant | Accountant | Auditor | Business Automation**
+**Odoo ERP Consultant · Accountant · Auditor · Business Automation**
 
-*Turning business challenges into smart, efficient, and reliable digital solutions.*
+*Engineering smarter workflows. Building reliable business systems.*
 
-![Odoo](https://img.shields.io/badge/Odoo-ERP_Consultant-875A7B?style=for-the-badge)
-![Accounting](https://img.shields.io/badge/Accounting-Financial_Reporting-163A53?style=for-the-badge)
+![Odoo](https://img.shields.io/badge/Odoo-ERP_Consulting-875A7B?style=for-the-badge)
+![Accounting](https://img.shields.io/badge/Accounting_%26_Audit-163A53?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-Development-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-Application_Development-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 </div>
 
 ---
 
-## 👨‍💻 Professional Overview
+## Professional Profile
 
-I am an **Odoo ERP Consultant, Accountant, and Auditor** specializing in business process analysis, ERP implementation, financial reporting, and workflow automation.
+I am an **Odoo ERP consultant, accountant, and auditor** working at the intersection of business processes, financial reporting, and software engineering. I help translate complex operational requirements into practical ERP workflows, automation, and maintainable systems.
 
-My work combines financial expertise with software development to build practical systems that improve operational efficiency, strengthen internal controls, and support business growth.
+## Expertise
 
-## 💼 Professional Services
-
-| Service | Expertise |
+| Domain | Focus |
 |---|---|
-| **Odoo ERP Implementation** | System configuration, deployment, and business process mapping |
-| **Odoo Customization** | Custom modules, workflows, and process automation |
-| **Accounting & Auditing** | Financial procedures, internal controls, and reporting |
-| **Business Analysis** | Requirements analysis and operational optimization |
-| **System Integration** | Python development, APIs, and data integration |
-| **Technical Consulting** | ERP architecture, testing, and implementation support |
+| **Odoo ERP** | Implementation, business analysis, customization, and workflow automation |
+| **Accounting & Audit** | Financial reporting, reconciliations, and internal controls |
+| **Engineering** | Python, XML, JavaScript, Dart, Flutter, and API integration |
+| **Data & Tools** | PostgreSQL, Git, GitHub, and Excel |
 
-## 🚀 Featured Projects
+## Featured Work
 
-### YAFA — Multi-Service Digital Platform
+**YAFA — Multi-Service Platform**  
+A private project in development combining a Flutter customer experience with Odoo-based operational workflows for bookings, service providers, and customer communication.
 
-A multi-service ecosystem under development, connecting a Flutter customer application with an Odoo-based operational backend.
+**ERP Operations & Accounting**  
+Odoo workflows across sales, purchasing, accounting, project management, reporting, and process controls.
 
-**Key areas:** Service booking, customer-provider communication, notifications, and operational management.
+> Project descriptions are high-level. Private source code, customer data, credentials, and sensitive architecture are not disclosed.
 
-*Private project — source code and sensitive implementation details are not publicly disclosed.*
-
-### Odoo ERP Solutions
-
-Developing and customizing ERP workflows across accounting, sales, purchasing, project management, and business operations.
-
-### Accounting & Financial Reporting
-
-Designing financial workflows, reporting solutions, and internal control processes that support accurate and efficient financial management.
-
-## 🛠️ Technical Skills
-
-**ERP & Business Systems**
-
-Odoo ERP • Odoo Studio • Business Analysis • Workflow Automation
-
-**Programming & Development**
-
-Python • JavaScript • HTML • CSS • XML • Flutter • Dart
-
-**Databases & Tools**
-
-PostgreSQL • Git • GitHub • Excel
-
-**Finance & Management**
-
-Financial Accounting • Auditing • Internal Controls • Financial Reporting
-
-## 📊 GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eng-Hadi-Ali&theme=github_dark" alt="GitHub Statistics" width="65%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eng-Hadi-Ali&theme=github_dark" alt="GitHub Contribution Activity" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eng-Hadi-Ali&theme=github_dark" alt="Public GitHub activity" width="65%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eng-Hadi-Ali&theme=github_dark" alt="GitHub contribution timeline" width="100%" />
 
 </div>
 
-## 🎯 Current Focus
+## Connect
 
-- Developing scalable Odoo ERP applications.
-- Building the YAFA multi-service platform.
-- Improving accounting and financial reporting systems.
-- Strengthening application security and automated testing.
-- Creating maintainable business automation solutions.
+Open to collaboration around **Odoo ERP, accounting technology, workflow automation, and system integration**.
 
-## 🤝 Let's Connect
-
-I am interested in collaborating on ERP implementation, accounting technology, process automation, and digital transformation projects.
-
-**GitHub:** [Eng-Hadi-Ali](https://github.com/Eng-Hadi-Ali)
-
----
+[Explore my GitHub repositories](https://github.com/Eng-Hadi-Ali?tab=repositories)
 
 <div align="center">
 
-**ERP • FINANCE • DEVELOPMENT • AUTOMATION**
-
-*Engineering smarter workflows. Building better business systems.*
+**ERP · FINANCE · ENGINEERING · AUTOMATION**
 
 </div>
-<div align="center">
-
-<img src="./assets/hadi-profile-banner.svg" alt="Eng. Hadi Al-Drobi | Odoo ERP Consultant" width="100%" />
-
-<br/>
-
-# Eng. Hadi Al-Drobi
-
-### Odoo ERP Consultant | Accountant | Auditor | Automation
-
-<p>
-  <a href="https://github.com/Eng-Hadi-Ali">
-    <img src="https://img.shields.io/badge/GitHub-Eng--Hadi--Ali-102F45?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-</div>
-
----
-
