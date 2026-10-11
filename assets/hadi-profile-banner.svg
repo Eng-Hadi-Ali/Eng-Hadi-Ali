@@ -1,38 +1,48 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="370" viewBox="0 0 1200 370" role="img" aria-labelledby="title desc">
-<title id="title">Eng. Hadi Al-Drobi — Digital Falcon</title><desc id="desc">Navy technology banner featuring an original falcon and terminal code typing animation.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="440" viewBox="0 0 1440 440" role="img" aria-labelledby="title desc">
+<title id="title">Eng. Hadi Al-Drobi — Digital Falcon</title><desc id="desc">Premium navy engineering profile with original perched falcon and animated code terminal.</desc>
 <defs>
-<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#071522"/><stop offset="1" stop-color="#173c55"/></linearGradient>
-<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#8ad8ff" stroke-opacity=".13"/></pattern>
-<clipPath id="terminal"><rect x="45" y="0" width="0" height="360"><animate attributeName="width" values="0;275;275;0" keyTimes="0;.48;.90;1" dur="9s" repeatCount="indefinite"/></rect></clipPath>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07121F"/><stop offset=".55" stop-color="#10283D"/><stop offset="1" stop-color="#071826"/></linearGradient>
+<linearGradient id="steel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F0FAFF"/><stop offset=".5" stop-color="#9BBFD3"/><stop offset="1" stop-color="#375872"/></linearGradient>
+<linearGradient id="wing" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#A0D9EF"/><stop offset=".5" stop-color="#3B779A"/><stop offset="1" stop-color="#132E48"/></linearGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" stroke="#71B8D7" stroke-opacity=".09" fill="none"/></pattern>
+<clipPath id="code1"><rect x="64" y="96" height="22" width="0"><animate attributeName="width" values="0;272;272;0" keyTimes="0;.24;.9;1" dur="11s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="code2"><rect x="64" y="129" height="22" width="0"><animate attributeName="width" values="0;0;315;315;0" keyTimes="0;.24;.5;.9;1" dur="11s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="code3"><rect x="64" y="162" height="22" width="0"><animate attributeName="width" values="0;0;275;275;0" keyTimes="0;.5;.73;.9;1" dur="11s" repeatCount="indefinite"/></rect></clipPath>
 </defs>
-<rect width="1200" height="370" rx="22" fill="url(#bg)"/><rect width="1200" height="370" rx="22" fill="url(#grid)"/>
-<path d="M0 308Q240 250 450 319T1200 298" fill="none" stroke="#75d4ff" stroke-opacity=".35" stroke-width="2"/>
-<rect x="25" y="34" width="345" height="169" rx="14" fill="#071522" fill-opacity=".82" stroke="#4baad4" stroke-opacity=".6"/>
-<circle cx="48" cy="53" r="4" fill="#60b8eb"/><circle cx="64" cy="53" r="4" fill="#89d7fa"/><circle cx="80" cy="53" r="4" fill="#d1f4ff"/>
-<g clip-path="url(#terminal)" font-family="monospace" font-size="15" fill="#bcf0ff">
-<text x="45" y="91">const platform = "YAFA";</text>
-<text x="45" y="118">stack: Odoo + Python + Flutter</text>
-<text x="45" y="145">securityGate.runTests();</text>
-<text x="45" y="172">status: engineering in motion</text>
+<rect width="1440" height="440" rx="20" fill="url(#bg)"/><rect width="1440" height="440" rx="20" fill="url(#grid)"/>
+<g stroke="#4F91B3" stroke-opacity=".27" fill="none" stroke-width="1.5"><path d="M0 348h211l34-31h125M0 375h152l30-25h145M861 57h135l38 37h171M946 87h95l31 29h141"/></g>
+<g fill="#8AD9F9"><circle cx="245" cy="317" r="3"><animate attributeName="opacity" values=".12;.9;.12" dur="4s" repeatCount="indefinite"/></circle><circle cx="1034" cy="94" r="3"><animate attributeName="opacity" values=".9;.12;.9" dur="5s" repeatCount="indefinite"/></circle></g>
+<rect x="42" y="66" width="355" height="218" rx="15" fill="#061320" stroke="#396D8A" stroke-width="1.5"/><rect x="43" y="67" width="353" height="27" rx="13" fill="#19364B"/>
+<circle cx="63" cy="80" r="4" fill="#6898B1"/><circle cx="78" cy="80" r="4" fill="#8BB9CD"/><circle cx="93" cy="80" r="4" fill="#CFECF9"/>
+<text x="116" y="84" font-family="monospace" font-size="12" fill="#B5D3E3">~/engineering/session</text>
+<g font-family="monospace" font-size="17">
+<text x="64" y="114" fill="#A4E6FF" clip-path="url(#code1)">const profile = 'HADI';</text>
+<text x="64" y="147" fill="#D0EAF7" clip-path="url(#code2)">stack = ['Odoo','Python'];</text>
+<text x="64" y="180" fill="#A4E6FF" clip-path="url(#code3)">await security.audit();</text>
+<text x="64" y="229" font-size="15" fill="#8AE9B6">● BUILDING RELIABLE SYSTEMS</text>
 </g>
-<rect x="45" y="182" width="10" height="3" fill="#c8f7ff"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
-<text x="404" y="129" font-size="43" font-family="Arial,sans-serif" font-weight="bold" fill="#ffffff">Eng. Hadi Al-Drobi</text>
-<text x="405" y="168" font-size="18" font-family="Arial,sans-serif" fill="#b4e7ff">ODOO ERP • ACCOUNTING • AUDIT • AUTOMATION</text>
-<text x="406" y="210" font-size="17" font-family="Arial,sans-serif" fill="#8fd9fa">Building reliable business systems</text>
-<path d="M405 226h505" stroke="#55bcea" stroke-width="2" stroke-dasharray="35 15"><animate attributeName="stroke-dashoffset" from="0" to="-100" dur="5s" repeatCount="indefinite"/></path>
-<!-- Original geometric falcon, perched on the upper-right frame. -->
-<g transform="translate(975,20)">
-<path d="M0 242H184" stroke="#a5e6ff" stroke-width="7" stroke-linecap="round"/>
-<path d="M75 223L59 256M101 223L109 256" stroke="#b4dced" stroke-width="6" stroke-linecap="round"/>
-<path d="M55 178L16 258L78 225" fill="#356c8b" stroke="#8bd7fd" stroke-width="2"/>
-<path d="M104 47C55 55 36 102 43 167C45 205 68 226 99 223C138 219 161 187 150 131L132 65Z" fill="#8dc7e5" stroke="#d9f7ff" stroke-width="3"/>
-<path d="M93 97L35 189L80 182L120 119Z" fill="#1e5879" stroke="#9adfff" stroke-width="3"/>
-<path d="M76 53L106 12L132 46L151 52L167 78L151 96L98 98L76 79Z" fill="#e7f7ff" stroke="#9acfee" stroke-width="3"/>
-<path d="M147 70L185 78L150 92Z" fill="#65bde9"/>
-<circle cx="129" cy="66" r="5" fill="#0a2135"/><circle cx="130" cy="65" r="1.7" fill="#ffffff"/>
-<path d="M66 115L98 151L80 196" fill="none" stroke="#c7f0ff" stroke-width="5" stroke-opacity=".65"/>
-<path d="M45 137L27 185L64 170" fill="#4286af"/>
+<rect x="65" y="246" width="9" height="18" fill="#AEEFFF"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+<text x="45" y="324" font-family="monospace" font-size="13" fill="#87B6CD" letter-spacing="2">LIVE CODE  /  ERP ENGINEERING</text>
+<g font-family="Arial,Helvetica,sans-serif">
+<text x="436" y="135" font-size="16" font-weight="700" fill="#81C8E8" letter-spacing="4">ENGINEERING  /  FINANCE  /  AUTOMATION</text>
+<text x="435" y="209" font-size="53" font-weight="700" fill="#F4FAFF">Eng. Hadi Al-Drobi</text>
+<path d="M437 233h510" stroke="#3C728F" stroke-width="3"/><path d="M437 233h510" stroke="#86D9F8" stroke-width="3" stroke-dasharray="30 30"><animate attributeName="stroke-dashoffset" values="0;-120" dur="7s" repeatCount="indefinite"/></path>
+<text x="437" y="272" font-size="22" fill="#C9E5F1">Odoo ERP Consultant  ·  Accountant  ·  Auditor</text>
+<text x="437" y="313" font-size="18" fill="#85ADC3">Building business systems that work.</text>
+<g font-size="13" font-weight="700"><rect x="437" y="344" width="117" height="32" rx="16" fill="#153C54" stroke="#4889AB"/><text x="460" y="365" fill="#D2EDFA">ODOO ERP</text><rect x="566" y="344" width="132" height="32" rx="16" fill="#153C54" stroke="#4889AB"/><text x="585" y="365" fill="#D2EDFA">ACCOUNTING</text><rect x="710" y="344" width="113" height="32" rx="16" fill="#153C54" stroke="#4889AB"/><text x="736" y="365" fill="#D2EDFA">PYTHON</text></g>
 </g>
-<g fill="#82dcff"><circle cx="395" cy="52" r="2"><animate attributeName="cy" values="52;74;52" dur="5s" repeatCount="indefinite"/></circle><circle cx="874" cy="300" r="3"><animate attributeName="opacity" values=".1;1;.1" dur="3s" repeatCount="indefinite"/></circle></g>
-<rect x="5" y="5" width="1190" height="360" rx="19" fill="none" stroke="#79cffa" stroke-opacity=".4" stroke-width="2"/>
+<!-- An original falcon illustration with layered metallic feather shapes -->
+<path d="M1092 379h305" stroke="#70AFCB" stroke-width="5" stroke-linecap="round"/><path d="M1132 379l-21 21h252l22-21" fill="#102E42" stroke="#447A96" stroke-width="2"/>
+<g>
+<path d="M1255 253l-70 127 53-35 50-90" fill="#305F7F" stroke="#8DBFD6" stroke-width="2"/><path d="M1281 263l-46 122 47-53 34-65" fill="#B3CFDF"/>
+<path d="M1264 102c-43 21-68 68-67 133 2 73 40 126 99 127 54 0 83-61 67-139-11-57-45-108-99-121z" fill="url(#steel)" stroke="#A6CDE0" stroke-width="3"/>
+<path d="M1286 141c-63 30-96 92-81 175 39-19 88-61 115-117l17-39c-14-16-31-22-51-19z" fill="url(#wing)" stroke="#9FC9DD" stroke-width="3"/>
+<path d="M1259 185c-29 39-46 82-51 119 38-22 69-55 90-85M1241 225c-16 25-29 48-32 73" fill="none" stroke="#CDEFFF" stroke-opacity=".58" stroke-width="5"/>
+<path d="M1231 121c-22-25-23-53-6-74 22-29 61-26 84-10 18 13 27 27 31 44l24 24-40 23-27 24c-32 0-49-12-66-31z" fill="#E9F7FC" stroke="#98BACF" stroke-width="3"/>
+<path d="M1253 66l46-7 23 15-40 3-15 14" fill="#718FA8"/><path d="M1339 103l39 9-39 27-15-16z" fill="#C6D8E3" stroke="#7095AE" stroke-width="2"/><path d="M1360 117l-20 20-6-13z" fill="#1F4055"/>
+<circle cx="1301" cy="93" r="6" fill="#102335"/><circle cx="1303" cy="91" r="2" fill="#FFFFFF"/>
+<path d="M1318 179c26 50 20 97-6 132" fill="none" stroke="#EBF8FC" stroke-opacity=".65" stroke-width="9"/>
+<path d="M1277 352l-8 27-18 8m18-8 9 7m52-36 10 29 19 8m-19-8-9 8" stroke="#D2E1E9" stroke-width="7" stroke-linecap="round" fill="none"/>
+</g>
+<rect x="5" y="5" width="1430" height="430" rx="17" fill="none" stroke="#477A98" stroke-opacity=".6" stroke-width="2"/>
 </svg>
