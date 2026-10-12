@@ -2,24 +2,24 @@
 <title id="ribbon-title">Eng. Hadi Al-Drobi — Professional Expertise</title>
 <desc id="ribbon-desc">Original compact layout: three navy glass ribbons on top and Flutter centered beneath. Four original brand-colored identities with sequential typing animations.</desc>
 <defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071522"/><stop offset=".55" stop-color="#102D44"/><stop offset="1" stop-color="#091B2B"/></linearGradient>
-  <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#19394E"/><stop offset=".52" stop-color="#102D44"/><stop offset="1" stop-color="#0B2031"/></linearGradient>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#020918"/><stop offset=".55" stop-color="#06152C"/><stop offset="1" stop-color="#030C20"/></linearGradient>
+  <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#09254A"/><stop offset=".52" stop-color="#06152C"/><stop offset="1" stop-color="#04132A"/></linearGradient>
   <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#B0E5FA" stop-opacity=".62"/><stop offset="1" stop-color="#B0E5FA" stop-opacity=".05"/></linearGradient>
-  <pattern id="grid" width="35" height="35" patternUnits="userSpaceOnUse"><path d="M35 0H0V35" fill="none" stroke="#A4D3E9" stroke-opacity=".07"/></pattern>
+  <pattern id="grid" width="35" height="35" patternUnits="userSpaceOnUse"><path d="M35 0H0V35" fill="none" stroke="#37AFFF" stroke-opacity=".07"/></pattern>
   <clipPath id="type-odoo"><rect x="91" y="33" height="33" width="0"><animate attributeName="width" values="0;336;336;0" keyTimes="0;.09;.965;1" dur="66s" repeatCount="indefinite"/></rect></clipPath>
   <clipPath id="type-finance"><rect x="528" y="33" height="33" width="0"><animate attributeName="width" values="0;0;404;404;0" keyTimes="0;.01;.10;.965;1" dur="66s" repeatCount="indefinite"/></rect></clipPath>
   <clipPath id="type-python"><rect x="1040" y="33" height="33" width="0"><animate attributeName="width" values="0;0;306;306;0" keyTimes="0;.02;.11;.965;1" dur="66s" repeatCount="indefinite"/></rect></clipPath>
   <clipPath id="type-flutter"><rect x="587" y="116" height="33" width="0"><animate attributeName="width" values="0;0;276;276;0" keyTimes="0;.03;.12;.965;1" dur="66s" repeatCount="indefinite"/></rect></clipPath>
 </defs>
-<rect width="1400" height="190" rx="16" fill="url(#bg)"/><rect width="1400" height="190" rx="16" fill="url(#grid)"/>
-<g fill="url(#glass)" stroke="#608DA6" stroke-width="1.2">
+<rect width="1400" height="190" rx="16" fill="url(#bg)"/><path d="M0 161h1400" stroke="#0068BA" stroke-opacity=".32" stroke-width="1.5"/><rect width="1400" height="190" rx="16" fill="url(#grid)"/>
+<g fill="url(#glass)" stroke="#137BC9" stroke-width="1.2">
   <rect x="24" y="21" width="420" height="59" rx="12"/>
   <rect x="469" y="21" width="478" height="59" rx="12"/>
   <rect x="972" y="21" width="404" height="59" rx="12"/>
   <rect x="523" y="108" width="354" height="59" rx="12"/>
 </g>
 <g fill="none" stroke="url(#edge)" stroke-width="1.5"><path d="M39 23H430"/><path d="M484 23H932"/><path d="M987 23H1361"/><path d="M538 110H862"/></g>
-<g stroke="#83AEC5" stroke-opacity=".4" stroke-width="1"><path d="M199 33V69"/><path d="M643 33V69"/><path d="M1141 33V69"/><path d="M705 120V157"/></g>
+<g stroke="#2783C3" stroke-opacity=".4" stroke-width="1"><path d="M199 33V69"/><path d="M643 33V69"/><path d="M1141 33V69"/><path d="M705 120V157"/></g>
 <!-- Each logo is rendered in its brand color at full opacity. -->
 <!-- Odoo identity: a compact set of interlinked circles, not a third-party image. -->
 <g fill="none" stroke="#AD729E" stroke-width="5"><circle cx="47" cy="50" r="9"/><circle cx="66" cy="50" r="9"/></g>
@@ -37,5 +37,5 @@
  <g clip-path="url(#type-python)"><text x="1040" y="59" font-size="20" letter-spacing="1" fill="#77BDEC">PYTHON</text><text x="1153" y="59" font-size="19" letter-spacing=".6" fill="#77BDEC">DEVELOPMENT</text></g>
  <g clip-path="url(#type-flutter)"><text x="587" y="145" font-size="20" letter-spacing="1" fill="#54C5F8">FLUTTER</text><text x="719" y="145" font-size="18" letter-spacing=".5" fill="#54C5F8">APPLICATIONS</text></g>
 </g>
-<rect x="4" y="4" width="1392" height="182" rx="12" fill="none" stroke="#5D91AD" stroke-opacity=".4" stroke-width="1.5"/>
+<rect x="4" y="4" width="1392" height="182" rx="12" fill="none" stroke="#087BD0" stroke-opacity=".4" stroke-width="1.5"/>
 </svg>
