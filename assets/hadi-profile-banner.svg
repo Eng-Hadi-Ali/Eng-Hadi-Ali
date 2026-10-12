@@ -1,68 +1,60 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="420" viewBox="0 0 1400 420" role="img" aria-labelledby="title description">
-<title id="title">Eng. Hadi Al-Drobi — ERP, Finance and Engineering</title>
-<desc id="description">Professional navy digital banner with an animated programming terminal, subtle circuit traces, and engineering credentials.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="420" viewBox="0 0 1400 420" role="img" aria-labelledby="title desc">
+<title id="title">Eng. Hadi Al-Drobi — Digital Engineering Profile</title>
+<desc id="desc">Electric blue futuristic GitHub cover with luminous technical circuitry, typed source code, and a premium professional title.</desc>
 <defs>
-  <linearGradient id="night" x1="0" y1="0" x2="1" y2="1">
-    <stop offset="0" stop-color="#071522"/><stop offset=".55" stop-color="#102D44"/><stop offset="1" stop-color="#091B2B"/>
-  </linearGradient>
-  <linearGradient id="light" x1="0" y1="0" x2="1" y2="0">
-    <stop stop-color="#54A2CC"/><stop offset=".5" stop-color="#B8EAFD"/><stop offset="1" stop-color="#54A2CC"/>
-  </linearGradient>
-  <pattern id="technical-grid" width="38" height="38" patternUnits="userSpaceOnUse">
-    <path d="M38 0H0V38" fill="none" stroke="#93CBE3" stroke-opacity=".09"/>
-  </pattern>
-  <clipPath id="type-one"><rect x="68" y="111" width="315" height="26">
-    <animate attributeName="width" dur="12s" repeatCount="indefinite" values="0;292;292;0" keyTimes="0;.23;.91;1"/>
-  </rect></clipPath>
-  <clipPath id="type-two"><rect x="68" y="149" width="315" height="26">
-    <animate attributeName="width" dur="12s" repeatCount="indefinite" values="0;0;280;280;0" keyTimes="0;.23;.49;.91;1"/>
-  </rect></clipPath>
-  <clipPath id="type-three"><rect x="68" y="187" width="315" height="26">
-    <animate attributeName="width" dur="12s" repeatCount="indefinite" values="0;0;0;302;302;0" keyTimes="0;.49;.53;.77;.91;1"/>
-  </rect></clipPath>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#020918"/><stop offset=".42" stop-color="#06152C"/><stop offset="1" stop-color="#030C20"/></linearGradient>
+ <linearGradient id="ribbon" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#0284E9" stop-opacity=".05"/><stop offset=".53" stop-color="#0099FF" stop-opacity=".23"/><stop offset="1" stop-color="#0088FC" stop-opacity=".04"/></linearGradient>
+ <linearGradient id="bright" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#08C3FF"/><stop offset=".5" stop-color="#D6F7FF"/><stop offset="1" stop-color="#137CFF"/></linearGradient>
+ <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse"><path d="M38 0H0V38" fill="none" stroke="#3F91C9" stroke-opacity=".075" stroke-width="1"/></pattern>
+ <filter id="glow" x="-60%" y="-200%" width="220%" height="500%"><feGaussianBlur stdDeviation="5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <clipPath id="type"><rect x="1146" y="132" width="0" height="140"><animate attributeName="width" values="0;0;207;207;0" keyTimes="0;.04;.37;.93;1" dur="16s" repeatCount="indefinite"/></rect></clipPath>
 </defs>
-<rect width="1400" height="420" rx="20" fill="url(#night)"/>
-<rect width="1400" height="420" rx="20" fill="url(#technical-grid)"/>
-<g fill="none" stroke="#6CA5C2" stroke-opacity=".23" stroke-width="2">
-  <path d="M0 337H230L278 289H390"/><path d="M0 364H164L200 329H351"/>
-  <path d="M1020 40H1167L1206 77H1400"/><path d="M1120 70H1192L1228 104H1400"/>
-  <path d="M1044 346H1242L1287 301H1400"/>
+<rect width="1400" height="420" rx="18" fill="url(#bg)"/>
+<rect width="1400" height="420" rx="18" fill="url(#grid)"/>
+<path d="M0 77H280L350 139H1038L1115 72H1400V370H0Z" fill="url(#ribbon)"/>
+<g fill="none"><path d="M24 0V30l58 46h30" stroke="#008CFB" stroke-opacity="0.13" stroke-width="2"/><path d="M48 0V66l80 60h50" stroke="#008CFB" stroke-opacity="0.17" stroke-width="1"/><path d="M72 0V102l102 74h70" stroke="#008CFB" stroke-opacity="0.22" stroke-width="1"/><path d="M96 0V138l58 46h90" stroke="#008CFB" stroke-opacity="0.27" stroke-width="2"/><path d="M120 0V174l80 60h30" stroke="#008CFB" stroke-opacity="0.13" stroke-width="1"/><path d="M144 0V30l102 74h50" stroke="#008CFB" stroke-opacity="0.17" stroke-width="1"/><path d="M168 0V66l58 46h70" stroke="#008CFB" stroke-opacity="0.22" stroke-width="2"/><path d="M192 0V102l80 60h90" stroke="#008CFB" stroke-opacity="0.27" stroke-width="1"/><path d="M216 0V138l102 74h30" stroke="#008CFB" stroke-opacity="0.13" stroke-width="1"/><path d="M240 0V174l58 46h50" stroke="#008CFB" stroke-opacity="0.17" stroke-width="2"/><path d="M264 0V30l80 60h70" stroke="#008CFB" stroke-opacity="0.22" stroke-width="1"/><path d="M288 0V66l102 74h90" stroke="#008CFB" stroke-opacity="0.27" stroke-width="1"/><path d="M312 0V102l58 46h30" stroke="#008CFB" stroke-opacity="0.13" stroke-width="2"/><path d="M336 0V138l80 60h50" stroke="#008CFB" stroke-opacity="0.17" stroke-width="1"/><path d="M1080 0v29l-48 40h-20" stroke="#23C9FF" stroke-opacity="0.13" stroke-width="2"/><path d="M1104 0v58l-67 54h-32" stroke="#23C9FF" stroke-opacity="0.18" stroke-width="1"/><path d="M1128 0v87l-86 68h-44" stroke="#23C9FF" stroke-opacity="0.24" stroke-width="1"/><path d="M1152 0v116l-105 40h-56" stroke="#23C9FF" stroke-opacity="0.13" stroke-width="1"/><path d="M1176 0v145l-48 54h-20" stroke="#23C9FF" stroke-opacity="0.18" stroke-width="2"/><path d="M1200 0v29l-67 68h-32" stroke="#23C9FF" stroke-opacity="0.24" stroke-width="1"/><path d="M1224 0v58l-86 40h-44" stroke="#23C9FF" stroke-opacity="0.13" stroke-width="1"/><path d="M1248 0v87l-105 54h-56" stroke="#23C9FF" stroke-opacity="0.18" stroke-width="1"/><path d="M1272 0v116l-48 68h-20" stroke="#23C9FF" stroke-opacity="0.24" stroke-width="2"/><path d="M1296 0v145l-67 40h-32" stroke="#23C9FF" stroke-opacity="0.13" stroke-width="1"/><path d="M1320 0v29l-86 54h-44" stroke="#23C9FF" stroke-opacity="0.18" stroke-width="1"/><path d="M1344 0v58l-105 68h-56" stroke="#23C9FF" stroke-opacity="0.24" stroke-width="1"/><path d="M1368 0v87l-48 40h-20" stroke="#23C9FF" stroke-opacity="0.13" stroke-width="2"/></g>
+<g stroke="#008BFF" fill="none" stroke-width="2" opacity=".67"><path d="M0 329h110l76-73h76l34 31h102"/><path d="M0 352h83l58-57h122"/><path d="M1400 286h-74l-55 53h-140"/><path d="M1400 312h-58l-67 67h-185"/></g>
+<g stroke="#12C8FF" fill="none" opacity=".55"><path d="M329 72h734M390 357h620" stroke-dasharray="38 17" stroke-width="1.4"/></g>
+<g opacity=".6" stroke="#168EF5" stroke-width="1.3" fill="none">
+<circle cx="1216" cy="203" r="103"/><circle cx="1216" cy="203" r="80"/><circle cx="1216" cy="203" r="59"/><path d="M1112 203h208M1216 100v206"/>
 </g>
-<g fill="#8CE0FF"><circle cx="277" cy="290" r="3"><animate attributeName="opacity" values=".2;1;.2" dur="3.6s" repeatCount="indefinite"/></circle>
-<circle cx="1208" cy="78" r="3"><animate attributeName="opacity" values="1;.2;1" dur="4.2s" repeatCount="indefinite"/></circle></g>
-<rect x="38" y="62" width="363" height="244" rx="15" fill="#061321" stroke="#3D728E" stroke-width="1.5"/>
-<path d="M53 62H386Q401 62 401 77V91H38V77Q38 62 53 62Z" fill="#183649"/>
-<circle cx="60" cy="77" r="4" fill="#649DBA"/><circle cx="75" cy="77" r="4" fill="#91C5DD"/><circle cx="90" cy="77" r="4" fill="#D1ECF8"/>
-<text x="109" y="81" fill="#BFDEED" font-family="monospace" font-size="12">hadi@engineering: ~/projects</text>
-<g font-family="monospace" font-size="16">
-  <text x="68" y="130" fill="#A8E8FA" clip-path="url(#type-one)">const expert = 'Odoo ERP';</text>
-  <text x="68" y="168" fill="#D4EAF6" clip-path="url(#type-two)">finance.validate(ledger);</text>
-  <text x="68" y="206" fill="#A8E8FA" clip-path="url(#type-three)">await automate(workflows);</text>
-  <text x="68" y="254" fill="#8DDBB3" font-size="14">● ENGINEERING IN PROGRESS</text>
+<g stroke="#1DCBFF" fill="none" stroke-width="1.5"><path d="M133 45h112v20h40"/><path d="M125 372h121l26-22h65"/><path d="M1256 49h-140v23h-29"/></g>
+<g fill="#06C6FF">
+<circle cx="287" cy="65" r="3"><animate attributeName="opacity" values=".3;1;.3" dur="4s" repeatCount="indefinite"/></circle>
+<circle cx="263" cy="295" r="3"><animate attributeName="opacity" values="1;.2;1" dur="3.5s" repeatCount="indefinite"/></circle>
+<circle cx="1104" cy="72" r="3"><animate attributeName="opacity" values=".2;1;.2" dur="4.5s" repeatCount="indefinite"/></circle>
 </g>
-<rect x="68" y="274" width="9" height="3" fill="#CFF6FF"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
-<text x="40" y="335" font-family="monospace" font-size="13" letter-spacing="2" fill="#83B8D0">BUSINESS LOGIC  /  CLEAN ENGINEERING</text>
+<!-- Left technical overview -->
 <g font-family="Arial,Helvetica,sans-serif">
-  <text x="446" y="109" fill="#82C8E7" font-size="16" font-weight="700" letter-spacing="3">ERP CONSULTING  /  FINANCE  /  AUTOMATION</text>
-  <text x="445" y="189" fill="#F4FAFE" font-size="55" font-weight="700">Eng. Hadi Al-Drobi</text>
-  <path d="M447 211H1256" stroke="#28536C" stroke-width="3"/>
-  <path d="M447 211H1256" stroke="url(#light)" stroke-width="3" stroke-dasharray="30 32"><animate attributeName="stroke-dashoffset" values="0;-124" dur="8s" repeatCount="indefinite"/></path>
-  <text x="447" y="251" fill="#D1E9F4" font-size="22">Odoo ERP Consultant  ·  Accountant  ·  Auditor</text>
-  <text x="447" y="289" fill="#93BFD2" font-size="18">Transforming complex operations into dependable systems.</text>
+<path d="M47 69h29" stroke="#00C6FF" stroke-width="4" filter="url(#glow)"/>
+<text x="48" y="100" fill="#56C7FF" font-size="14" letter-spacing="4">SYSTEMS</text>
+<text x="48" y="136" fill="#8CBCD8" font-size="15" letter-spacing="2">ERP</text>
+<text x="48" y="168" fill="#8CBCD8" font-size="15" letter-spacing="2">FINANCE</text>
+<text x="48" y="200" fill="#8CBCD8" font-size="15" letter-spacing="2">AUTOMATION</text>
+<text x="48" y="232" fill="#8CBCD8" font-size="15" letter-spacing="2">SOFTWARE</text>
+<path d="M48 255h78" stroke="#00AFFF" stroke-width="2"/>
 </g>
-<g font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing=".6">
-  <rect x="448" y="324" width="130" height="36" rx="8" fill="#16394F" stroke="#3F7796"/>
-  <text x="469" y="347" fill="#D8F1F9">ODOO ERP</text>
-  <rect x="592" y="324" width="153" height="36" rx="8" fill="#16394F" stroke="#3F7796"/>
-  <text x="613" y="347" fill="#D8F1F9">ACCOUNTING</text>
-  <rect x="759" y="324" width="144" height="36" rx="8" fill="#16394F" stroke="#3F7796"/>
-  <text x="781" y="347" fill="#D8F1F9">AUDIT</text>
-  <rect x="917" y="324" width="157" height="36" rx="8" fill="#16394F" stroke="#3F7796"/>
-  <text x="936" y="347" fill="#D8F1F9">AUTOMATION</text>
+<!-- Central identity -->
+<g font-family="Arial,Helvetica,sans-serif" text-anchor="middle">
+ <text x="704" y="126" fill="#50C6FF" font-size="17" font-weight="700" letter-spacing="4">DIGITAL SYSTEMS  /  BUSINESS INTELLIGENCE</text>
+ <text x="704" y="206" fill="#F8FCFF" font-size="61" font-weight="700">Eng. Hadi Al-Drobi</text>
+ <text x="704" y="251" fill="#D7EFFF" font-size="20">Odoo ERP Consultant  •  Accountant  •  Auditor</text>
+ <rect x="384" y="278" width="640" height="42" rx="4" fill="#071A33" stroke="#0774BC"/>
+ <text x="704" y="305" fill="#60C7FF" font-size="14" font-weight="700" letter-spacing="2.5">ERP SOLUTIONS  ·  FINANCIAL INSIGHT  ·  MODERN DEVELOPMENT</text>
 </g>
-<g opacity=".55"><circle cx="1340" cy="145" r="33" fill="none" stroke="#659ABA" stroke-width="1.5"/>
-<circle cx="1340" cy="145" r="20" fill="none" stroke="#659ABA" stroke-width="1"/>
-<path d="M1340 100V190M1295 145H1385" stroke="#659ABA" stroke-width="1"/>
-<circle cx="1340" cy="145" r="4" fill="#A6E5FC"><animate attributeName="opacity" values=".4;1;.4" dur="3s" repeatCount="indefinite"/></circle></g>
-<rect x="5" y="5" width="1390" height="410" rx="16" fill="none" stroke="#5F9AB8" stroke-opacity=".55" stroke-width="2"/>
+<path d="M383 340h641" stroke="#2B82B9" stroke-width="1.4"/><path d="M383 340h641" stroke="url(#bright)" stroke-width="2.1" stroke-dasharray="50 58"><animate attributeName="stroke-dashoffset" from="0" to="-216" dur="10s" repeatCount="indefinite"/></path>
+<!-- Subtle typed engineering code in right-hand terminal -->
+<rect x="1129" y="99" width="234" height="178" rx="9" fill="#030C1F" fill-opacity=".7" stroke="#1374BD" stroke-width="1.4"/>
+<path d="M1144 116h38" stroke="#0BE2FF" stroke-width="2.2"/>
+<g font-family="monospace" font-size="16" fill="#21C5FF" clip-path="url(#type)">
+<text x="1146" y="151">if (success) {</text>
+<text x="1146" y="183">  analyze();</text>
+<text x="1146" y="215">  automate();</text>
+<text x="1146" y="247">}</text>
+</g>
+<rect x="1148" y="257" width="8" height="3" fill="#46DEFF"><animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/></rect>
+<!-- illuminated digital boundary -->
+<rect x="6" y="6" width="1388" height="408" rx="13" fill="none" stroke="#0571BA" stroke-opacity=".66" stroke-width="2"/>
+<path d="M0 387h1400" stroke="#0CBAFF" stroke-width="3" filter="url(#glow)"/>
+<rect x="315" y="392" width="13" height="3" fill="#04B7FF" opacity=".84"/><rect x="339" y="392" width="5" height="2" fill="#04B7FF" opacity=".29"/><rect x="363" y="392" width="5" height="2" fill="#04B7FF" opacity=".29"/><rect x="387" y="392" width="5" height="3" fill="#04B7FF" opacity=".29"/><rect x="411" y="392" width="5" height="2" fill="#04B7FF" opacity=".29"/><rect x="435" y="392" width="5" height="2" fill="#04B7FF" opacity=".84"/><rect x="459" y="392" width="13" height="3" fill="#04B7FF" opacity=".29"/><rect x="483" y="392" width="5" height="2" fill="#04B7FF" opacity=".29"/><rect x="507" y="392" width="5" height="2" fill="#04B7FF" opacity=".29"/><rect x="531" y="392" width="5" height="3" fill="#04B7FF" opacity=".29"/><rect x="555" y="392" width="5" height="2" fill="#04B7FF" opacity=".84"/><rect x="579" y="392" width="5" height="2" fill="#04B7FF" opacity=".29"/><rect x="603" y="392" width="13" height="3" fill="#04B7FF" opacity=".29"/><rect x="627" y="392" width="5" height="2" fill="#04B7FF" opacity=".29"/><rect x="651" y="392" width="5" height="2" fill="#04B7FF" opacity=".29"/><rect x="675" y="392" width="5" height="3" fill="#04B7FF" opacity=".84"/><rect x="699" y="392" width="5" height="2" fill="#04B7FF" opacity=".29"/><rect x="723" y="392" width="5" height="2" fill="#04B7FF" opacity=".29"/><rect x="747" y="392" width="13" height="3" fill="#04B7FF" opacity=".29"/><rect x="771" y="392" width="5" height="2" fill="#04B7FF" opacity=".29"/><rect x="795" y="392" width="5" height="2" fill="#04B7FF" opacity=".84"/><rect x="819" y="392" width="5" height="3" fill="#04B7FF" opacity=".29"/><rect x="843" y="392" width="5" height="2" fill="#04B7FF" opacity=".29"/><rect x="867" y="392" width="5" height="2" fill="#04B7FF" opacity=".29"/><rect x="891" y="392" width="13" height="3" fill="#04B7FF" opacity=".29"/><rect x="915" y="392" width="5" height="2" fill="#04B7FF" opacity=".84"/><rect x="939" y="392" width="5" height="2" fill="#04B7FF" opacity=".29"/><rect x="963" y="392" width="5" height="3" fill="#04B7FF" opacity=".29"/><rect x="987" y="392" width="5" height="2" fill="#04B7FF" opacity=".29"/><rect x="1011" y="392" width="5" height="2" fill="#04B7FF" opacity=".29"/>
 </svg>
