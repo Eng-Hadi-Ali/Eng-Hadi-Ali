@@ -2,15 +2,15 @@
 <title id="title">Eng. Hadi Al-Drobi — Compact GitHub Engineering Metrics</title>
 <desc id="description">Four slim navy digital-glass strips showing public repositories, received stars, followers and latest public push. Data generated from GitHub public API.</desc>
 <defs>
- <linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071522"/><stop offset=".55" stop-color="#102D44"/><stop offset="1" stop-color="#091B2B"/></linearGradient>
- <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#264860" stop-opacity=".68"/><stop offset=".6" stop-color="#17384D" stop-opacity=".48"/><stop offset="1" stop-color="#071724" stop-opacity=".82"/></linearGradient>
+ <linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#020918"/><stop offset=".55" stop-color="#06152C"/><stop offset="1" stop-color="#030C20"/></linearGradient>
+ <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0A3160" stop-opacity=".68"/><stop offset=".6" stop-color="#08254D" stop-opacity=".48"/><stop offset="1" stop-color="#030D23" stop-opacity=".82"/></linearGradient>
  <linearGradient id="sheen" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#A7E4FD" stop-opacity=".66"/><stop offset="1" stop-color="#A7E4FD" stop-opacity=".02"/></linearGradient>
- <pattern id="grid" width="35" height="35" patternUnits="userSpaceOnUse"><path d="M35 0H0V35" fill="none" stroke="#A0D6F1" stroke-opacity=".07"/></pattern>
+ <pattern id="grid" width="35" height="35" patternUnits="userSpaceOnUse"><path d="M35 0H0V35" fill="none" stroke="#40B9FF" stroke-opacity=".07"/></pattern>
 </defs>
 <rect width="1400" height="212" rx="16" fill="url(#background)"/><rect width="1400" height="212" rx="16" fill="url(#grid)"/>
 <g font-family="Arial,Helvetica,sans-serif">
 <g>
-<rect x="22" y="17" width="667" height="80" rx="14" fill="url(#glass)" stroke="#5A98B8" stroke-opacity=".82" stroke-width="1.5"/>
+<rect x="22" y="17" width="667" height="80" rx="14" fill="url(#glass)" stroke="#087DD2" stroke-opacity=".82" stroke-width="1.5"/>
 <path d="M39 19h633" stroke="url(#sheen)" stroke-width="2"/>
 <path d="M31 36v42" stroke="#8BDFFF" stroke-opacity=".65" stroke-width="3"/>
 <path d="M45 42h12l6 7h23v25h-41z" fill="none" stroke="#8BDFFF" stroke-width="2.7" stroke-linejoin="round"/>
@@ -20,7 +20,7 @@
 <circle cx="672" cy="35" r="2.7" fill="#8BDFFF"><animate attributeName="opacity" values=".3;1;.3" dur="3s" repeatCount="indefinite"/></circle>
 </g>
 <g>
-<rect x="711" y="17" width="667" height="80" rx="14" fill="url(#glass)" stroke="#5A98B8" stroke-opacity=".82" stroke-width="1.5"/>
+<rect x="711" y="17" width="667" height="80" rx="14" fill="url(#glass)" stroke="#087DD2" stroke-opacity=".82" stroke-width="1.5"/>
 <path d="M728 19h633" stroke="url(#sheen)" stroke-width="2"/>
 <path d="M720 36v42" stroke="#A0E1FC" stroke-opacity=".65" stroke-width="3"/>
 <path d="M755 37l6 13 15 2-11 10 3 15-13-7-13 7 3-15-11-10 15-2z" fill="none" stroke="#A0E1FC" stroke-width="2.5" stroke-linejoin="round"/>
@@ -30,7 +30,7 @@
 <circle cx="1361" cy="35" r="2.7" fill="#A0E1FC"><animate attributeName="opacity" values=".3;1;.3" dur="3.55s" repeatCount="indefinite"/></circle>
 </g>
 <g>
-<rect x="22" y="114" width="667" height="80" rx="14" fill="url(#glass)" stroke="#5A98B8" stroke-opacity=".82" stroke-width="1.5"/>
+<rect x="22" y="114" width="667" height="80" rx="14" fill="url(#glass)" stroke="#087DD2" stroke-opacity=".82" stroke-width="1.5"/>
 <path d="M39 116h633" stroke="url(#sheen)" stroke-width="2"/>
 <path d="M31 133v42" stroke="#82D5F5" stroke-opacity=".65" stroke-width="3"/>
 <circle cx="65" cy="143" r="8" fill="none" stroke="#82D5F5" stroke-width="2.6"/><path d="M49 170q16-24 32 0" fill="none" stroke="#82D5F5" stroke-width="2.6"/><circle cx="84" cy="146" r="6" fill="none" stroke="#82D5F5" stroke-width="2.4"/>
@@ -40,7 +40,7 @@
 <circle cx="672" cy="132" r="2.7" fill="#82D5F5"><animate attributeName="opacity" values=".3;1;.3" dur="4.1s" repeatCount="indefinite"/></circle>
 </g>
 <g>
-<rect x="711" y="114" width="667" height="80" rx="14" fill="url(#glass)" stroke="#5A98B8" stroke-opacity=".82" stroke-width="1.5"/>
+<rect x="711" y="114" width="667" height="80" rx="14" fill="url(#glass)" stroke="#087DD2" stroke-opacity=".82" stroke-width="1.5"/>
 <path d="M728 116h633" stroke="url(#sheen)" stroke-width="2"/>
 <path d="M720 133v42" stroke="#95D6F1" stroke-opacity=".65" stroke-width="3"/>
 <circle cx="756" cy="152" r="18" fill="none" stroke="#95D6F1" stroke-width="2.5"/><path d="M756 141v11l8 5" fill="none" stroke="#95D6F1" stroke-linecap="round" stroke-width="2.5"/>
@@ -50,5 +50,5 @@
 <circle cx="1361" cy="132" r="2.7" fill="#95D6F1"><animate attributeName="opacity" values=".3;1;.3" dur="4.65s" repeatCount="indefinite"/></circle>
 </g>
 </g>
-<rect x="4" y="4" width="1392" height="204" rx="13" fill="none" stroke="#6CA7C3" stroke-opacity=".34" stroke-width="1.5"/>
+<rect x="4" y="4" width="1392" height="204" rx="13" fill="none" stroke="#0C93E7" stroke-opacity=".34" stroke-width="1.5"/>
 </svg>
