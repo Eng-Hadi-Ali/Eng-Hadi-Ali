@@ -2,9 +2,9 @@
 
 <img src="./assets/hadi-profile-banner.svg" alt="Eng. Hadi Al-Drobi — Odoo ERP Consultant, Accountant and Auditor" width="100%" />
 
-### Odoo ERP Consultant · Accountant · Auditor · Business Automation
+**ODOO ERP · ACCOUNTING · AUDIT · AUTOMATION**
 
-*Engineering reliable workflows at the intersection of ERP, finance and software.*
+*Business solutions. Financial insight. Modern development.*
 
 <img src="./assets/expertise-glass-ribbons.svg" alt="Animated expertise cards: Odoo ERP, Finance, Python, Flutter" width="100%" />
 
@@ -12,7 +12,7 @@
 
 ---
 
-## Professional Overview
+## Professional Profile
 
 I'm **Eng. Hadi Al-Drobi**, an Odoo ERP consultant, accountant and auditor. I translate business and financial requirements into structured workflows, dependable reporting and practical digital systems, combining accounting expertise with software development.
 
@@ -52,7 +52,7 @@ I welcome professional collaboration on **Odoo ERP, accounting technology, busin
 
 ---
 
-## Engineering Metrics
+## Digital Engineering Metrics
 
 <div align="center">
 
